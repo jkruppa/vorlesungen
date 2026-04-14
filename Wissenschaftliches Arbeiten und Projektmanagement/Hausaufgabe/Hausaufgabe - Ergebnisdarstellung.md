@@ -4,7 +4,7 @@
 
 > *Nutzen Sie zur Bearbeitung der Hausarbeit entsprechende KI-Anwendungen um Ihnen das Leben leichter zu machen. Ergänzen Sie gerne entsprechende KI-generierte Abbildungen in der Einleitung um die praktische Problematik besser zu visualisieren.*
 
-Die Hausaufgabe wird in Form einer PowerPoint Präsentation von Ihnen vorgestellt. Beantworten Sie also alle Fragen mit einer oder mehreren PowerPoint-Folien.
+**Die Hausaufgabe wird in Form einer PowerPoint Präsentation von Ihnen vorgestellt.** Beantworten Sie also alle Fragen mit einer oder mehreren PowerPoint-Folien. Die Präsentation sollte nicht länger als 5 Minuten dauern.
 
 ##### Forschungsfrage
 
@@ -20,9 +20,15 @@ Beschreiben Sie das Experiment was Sie durchführen würden um die Forschungsfra
 
 Erstellen Sie eine entsprechende Skizze aus dem klar hervorgeht, was Sie eigentlich vorhaben und wie viele Tiere oder Pflanzen Sie verwenden wollen.
 
+Bauen Sie sich einen entsprechenden Datensatz in Excel mit den Ergebnissen, die Sie erwarten würden.
+
 ##### Ergebnisse
 
 Stellen Sie die Ergebnisse als Tabellen und Abbildungen dar.
+
+##### Diskussion
+
+Können Sie Ihre Ergebnisse in die bekannte Litertaur und wissenschftlichen Veröffentlichungen einordnen? Haben andere ähnliches gemacht und wie unterscheiden sich die Ergebnisse? Was würden Sie das nächste Mal anders machen und wo sehen Sie noch Potenzial zur Verbesserung?
 
 
 
