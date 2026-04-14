@@ -30,8 +30,6 @@ Stellen Sie die Ergebnisse als Tabellen und Abbildungen dar.
 
 Können Sie Ihre Ergebnisse in die bekannte Litertaur und wissenschftlichen Veröffentlichungen einordnen? Haben andere ähnliches gemacht und wie unterscheiden sich die Ergebnisse? Was würden Sie das nächste Mal anders machen und wo sehen Sie noch Potenzial zur Verbesserung?
 
-
-
 ----
 
 Kontakt: Prof. Dr. Jochen Kruppa-Scheetz (j.kruppa@hs-osnabrueck.de)
