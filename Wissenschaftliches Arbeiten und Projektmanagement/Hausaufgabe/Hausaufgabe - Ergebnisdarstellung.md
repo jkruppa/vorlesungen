@@ -2,21 +2,20 @@
 
 ## Seminar 6: Ergebnisdarstellung
 
-> *Nutzen Sie zur Bearbeitung der Hausarbeit entsprechende KI-Anwendungen um Ihnen das Leben leichter zu machen. Ergänzen Sie gerne entsprechende KI-generierte Abbildungen in der Einleitung um die praktische Problematik besser zu visualisieren.*
+> *Nutzen Sie zur Bearbeitung der Hausarbeit entsprechende KI-Anwendungen um Ihnen das Leben leichter zu machen. Ergänzen Sie gerne entsprechende KI-generierte Abbildungen in den einleitenden Folien um die praktische Problematik besser zu visualisieren.*
 
 **Die Hausaufgabe wird in Form einer PowerPoint Präsentation von Ihnen vorgestellt.** Beantworten Sie also alle Fragen mit einer oder mehreren PowerPoint-Folien. Die Präsentation sollte nicht länger als 5 Minuten dauern.
 
 ##### Forschungsfrage
 
-Erstellen Sie zu Ihrem Thema der Hausarbeit eine Forschungsfrage in der Sie drei Gruppen anhand eines Messwertes miteinander vergleichen wollen.
+Erstellen Sie zu Ihrem Thema der Hausarbeit eine Forschungsfrage in der Sie drei Behandlungsgruppen anhand eines selbstbestimmten Messwertes miteinander vergleichen wollen. Hier zwei Beispiele zur Inspiration:
 
-*Gibt es einen Unterschied zwischen dem Ertrag von Mais unter verschiedener Phosphordüngung?*
-
-*Zeigen Schweine ein anderes Bewegungsmuster, wenn Schweine unterschiedlich angelegte Buchten angeboten wird?*
+1) *Gibt es einen Unterschied zwischen dem Ertrag von Mais unter verschiedener Phosphordüngung?*
+2) *Zeigen Schweine ein anderes Bewegungsmuster, wenn Schweine unterschiedlich angelegte Buchten angeboten wird?*
 
 ##### Material und Methoden
 
-Beschreiben Sie das Experiment was Sie durchführen würden um die Forschungsfrage beantworten zu können.
+Beschreiben Sie das Experiment was Sie durchführen würden um die Forschungsfrage beantworten zu können. Wie würden Sie den entsprechenden Messwert experimentell bestimmen? 
 
 Erstellen Sie eine entsprechende Skizze aus dem klar hervorgeht, was Sie eigentlich vorhaben und wie viele Tiere oder Pflanzen Sie verwenden wollen.
 
