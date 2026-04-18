@@ -21,13 +21,21 @@ Erstellen Sie eine entsprechende Skizze aus dem klar hervorgeht, was Sie eigentl
 
 Bauen Sie sich einen entsprechenden Datensatz in Excel mit den Ergebnissen, die Sie erwarten würden.
 
+1. *Verwenden Sie in der Exceldatei das Long-Format.*
+2. *Sie können auch die Visualisierung in GoodNotes oder PowerPoint durchführen. Die Skizze muss nur verständlcih zeigen, was Sie machen wollen.*
+
 ##### Ergebnisse
 
 Stellen Sie die Ergebnisse als Tabellen und Abbildungen dar.
 
+1. *Häufig werden Säulendiagramme, die den Mittelwert und die Standardabweichung darstellen für die Visualisierung genutzt. Gerne können Sie auch eine andere Abbildung verwenden, wenn diese Ihre Fragestellung beantwortet.*
+2. *Nutzen Sie auch eine zusammenfassende Tabelle zur Darstellung der numerischen Ergebnisse. In einer Abbildung werden ja meistens nicht die Zahlenwerte dargestellt.*
+
 ##### Diskussion
 
 Können Sie Ihre Ergebnisse in die bekannte Litertaur und wissenschftlichen Veröffentlichungen einordnen? Haben andere ähnliches gemacht und wie unterscheiden sich die Ergebnisse? Was würden Sie das nächste Mal anders machen und wo sehen Sie noch Potenzial zur Verbesserung?
+
+Wann war die Verwendung der generativen KI wie Gemini und ChatGPT nutzvoll und wann hat es Ihnen eher nciht geholfen die Tools bei der Erstellugn Ihrer Hausaufgabe zu benutzen?
 
 ----
 
