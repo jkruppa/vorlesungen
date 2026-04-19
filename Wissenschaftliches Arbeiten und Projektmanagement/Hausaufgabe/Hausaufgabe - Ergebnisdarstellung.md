@@ -39,5 +39,5 @@ Wann war die Verwendung der generativen KI wie Gemini und ChatGPT nutzvoll und w
 
 ----
 
-Kontakt: Prof. Dr. Jochen Kruppa-Scheetz (j.kruppa@hs-osnabrueck.de)
+**Kontakt:** Prof. Dr. Jochen Kruppa-Scheetz (j.kruppa@hs-osnabrueck.de)
 
