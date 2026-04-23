@@ -1,5 +1,7 @@
 # Wie du ein Problem löst!
 
+*"Hilf mir, es selbst zu tun. Zeig mir, wie es geht. Tu es nicht für mich. Ich kann und will es allein tun."*
+
 ## Verstehe das Problem
 
 > **Erstens.** Du musst das Problem verstehen.
@@ -49,3 +51,5 @@ Kannst du das Ergebnis oder die Methode für ein anderes Problem verwenden?
 ## Referenzen
 
 1. Polya, G. (1945). *How to solve it: A new aspect of mathematical method*. Princeton university press.
+1. Schimel, J. (2012). *Writing science: how to write papers that get cited and proposals that get funded*. OUP USA.
+1. Kruse, O. (2000). *Keine Angst vor dem leeren Blatt: ohne Schreibblockaden durchs Studium* (Vol. 16). Campus Verlag.
