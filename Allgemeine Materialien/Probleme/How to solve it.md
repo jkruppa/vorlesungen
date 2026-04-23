@@ -12,7 +12,17 @@ Ist es möglich die Bedingungen oder Annahmen zu erfüllen? Sind die Annahmen hi
 
 **Zeichne eine Abbildung.** Visualisiere das Problem. Führe eine brauchbare Notation ein. Teile die einzelnen Annahmen und Bedingungen auf. Schaffe dir einen Überblick. Kannst du alles aufschreiben?  
 
-## 2. Mache dir einen Plan
+## Hinterfrage das Problem
+
+> *"If a decision isn't necessary, don't make it. Sometimes, doing nothing is the best move" - Falkland's Law*
+
+Muss das Problem jetzt gelöst werden? Braucht es eine Lösung oder kann das problem auch einfach nur so existieren? Lohnt sich eien Lösung zur Zeit oder wäre es besser mit der Lösung zu warten? 
+
+Betrifft dich das Problem oder ist es ein Problem anderer Leute? Ist es deine Aufgabe das Problem zu verstehen und zu lösen? Hast du eine klare Aufgabentrennung oder mischt du dich in die Aufgaben anderer ein? 
+
+Wer trägt den Nutzen, dessen Aufgabe ist es auch das Problem zu lösen.
+
+## Mache dir einen Plan
 
 > **Zweitens.** Du musst eine Verbindung zwischen den Daten und dem Unbekannten finden. Hierbei helfen dir verwandte oder ähnliche Probleme, wenn du eine direkte Verbindung nicht findest. 
 
