@@ -12,7 +12,7 @@ Ist es möglich die Bedingungen oder Annahmen zu erfüllen? Sind die Annahmen hi
 
 **Zeichne eine Abbildung.** Visualisiere das Problem. Führe eine brauchbare Notation ein. Teile die einzelnen Annahmen und Bedingungen auf. Schaffe dir einen Überblick. Kannst du alles aufschreiben?  
 
-## Hinterfrage das Problem
+## Hinterfrage den Nutzen
 
 > *"If a decision isn't necessary, don't make it. Sometimes, doing nothing is the best move" - Falkland's Law*
 
@@ -63,3 +63,4 @@ Kannst du das Ergebnis oder die Methode für ein anderes Problem verwenden?
 1. Polya, G. (1945). *How to solve it: A new aspect of mathematical method*. Princeton university press.
 1. Schimel, J. (2012). *Writing science: how to write papers that get cited and proposals that get funded*. OUP USA.
 1. Kruse, O. (2000). *Keine Angst vor dem leeren Blatt: ohne Schreibblockaden durchs Studium* (Vol. 16). Campus Verlag.
+1. [Chapter 17. |  Section 1. An Introduction to the Problem-Solving Process](https://ctb.ku.edu/en/table-of-contents/analyze/analyze-community-problems-and-solutions/problem-solving-process/main)
