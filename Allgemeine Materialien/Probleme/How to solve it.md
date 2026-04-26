@@ -64,4 +64,5 @@ Kannst du das Ergebnis oder die Methode für ein anderes Problem verwenden?
 1. Schimel, J. (2012). *Writing science: how to write papers that get cited and proposals that get funded*. OUP USA.
 1. Kruse, O. (2000). *Keine Angst vor dem leeren Blatt: ohne Schreibblockaden durchs Studium* (Vol. 16). Campus Verlag.
 1. Kishimi, I., & Koga, F. (2018). *Du musst nicht von allen gemocht werden: Vom Mut, sich nicht zu verbiegen*. Rowohlt Verlag GmbH.
+1. Wedell-Wedellsborg, T. (2020). *What's Your Problem?: To Solve Your Toughest Problems, Change the Problems You Solve*. Harvard Business Press.
 1. [Chapter 17. |  Section 1. An Introduction to the Problem-Solving Process](https://ctb.ku.edu/en/table-of-contents/analyze/analyze-community-problems-and-solutions/problem-solving-process/main)
