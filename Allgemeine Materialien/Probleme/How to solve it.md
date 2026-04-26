@@ -2,6 +2,10 @@
 
 *"Hilf mir, es selbst zu tun. Zeig mir, wie es geht. Tu es nicht für mich. Ich kann und will es allein tun."*
 
+## Was ist ein Problem?
+
+> “If you feel safe in the area that you’re working in, you’re not working in the right area. Always go a little further into the water than you feel you’re capable of being in. Go a little bit out of your depth. And when you don’t feel that your feet are quite touching the bottom, you’re just about in the right place to do something exciting.” - David Bowie
+
 ## Verstehe das Problem
 
 > **Erstens.** Du musst das Problem verstehen.
@@ -65,4 +69,4 @@ Kannst du das Ergebnis oder die Methode für ein anderes Problem verwenden?
 1. Kruse, O. (2000). *Keine Angst vor dem leeren Blatt: ohne Schreibblockaden durchs Studium* (Vol. 16). Campus Verlag.
 1. Kishimi, I., & Koga, F. (2018). *Du musst nicht von allen gemocht werden: Vom Mut, sich nicht zu verbiegen*. Rowohlt Verlag GmbH.
 1. Wedell-Wedellsborg, T. (2020). *What's Your Problem?: To Solve Your Toughest Problems, Change the Problems You Solve*. Harvard Business Press.
-1. [Chapter 17. |  Section 1. An Introduction to the Problem-Solving Process](https://ctb.ku.edu/en/table-of-contents/analyze/analyze-community-problems-and-solutions/problem-solving-process/main)
+1. [The Community Tool Box of the Center for Community Health and Development at the University of Kansas, Chapter 17. |  Section 1. An Introduction to the Problem-Solving Process](https://ctb.ku.edu/en/table-of-contents/analyze/analyze-community-problems-and-solutions/problem-solving-process/main)
