@@ -6,6 +6,8 @@
 
 > “If you feel safe in the area that you’re working in, you’re not working in the right area. Always go a little further into the water than you feel you’re capable of being in. Go a little bit out of your depth. And when you don’t feel that your feet are quite touching the bottom, you’re just about in the right place to do something exciting.” - David Bowie
 
+Ist es Problem oder ein Bedürfnis? Ist es eine Aufgabe oder ein Problem? 
+
 ## Verstehe das Problem
 
 > **Erstens.** Du musst das Problem verstehen.
