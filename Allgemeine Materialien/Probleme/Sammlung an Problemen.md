@@ -18,3 +18,5 @@ Bestimme den unterschied zwischen zwei Gruppen
 
 
 
+### Schreiben Sie Begriffe auf, die Sie mit "Reiten" und "Programmieren" verbinden!
+
