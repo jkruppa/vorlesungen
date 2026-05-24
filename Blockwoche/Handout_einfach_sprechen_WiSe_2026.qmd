@@ -1,6 +1,6 @@
 ---
-title: "Einfach sprechen"
-subtitle: "Mit Sicherheit und Freude vor Publikum stehen"
+title: "Sicher sprechen – Lebendig präsentieren"
+subtitle: "Die Kunst, einfach und lebendig zu präsentieren"
 author: "Jochen Kruppa-Scheetz"
 format:
   pdf:
@@ -15,6 +15,19 @@ format:
 ---
 
 > *"There are these two young fish swimming along and they happen to meet an older fish swimming the other way, who nods at them and says 'Morning, boys. How’s the water?' And the two young fish swim on for a bit, and then eventually one of them looks over at the other and goes 'What the hell is water?'" --- [This is Water by David Foster Wallace](https://fs.blog/david-foster-wallace-this-is-water/)*
+
+Diese Tischvorlage fasst alle Informationen zu den beiden Blockveranstaltungen „Einfach sprechen“ und „Lebendig präsentieren“ zusammen. Both Formate widmen sich dem erfolgreichen Vortragen, setzen jedoch unterschiedliche Schwerpunkte:
+
+- **Einfach sprechen:** Konzentriert sich auf die wesentlichen Grundlagen für einen sicheren Auftritt.
+- **Lebendig präsentieren:** Vertieft die Inhalte und legt den Fokus auf fortgeschrittene Methoden des Storytellings.
+
+*Hinweis zur Belegung:*
+
+Die Module bauen thematisch nicht zwingend aufeinander auf; „Einfach sprechen“ ist also keine Voraussetzung für „Lebendig präsentieren“. Die Reihenfolge ist flexibel wählbar. Aus persönlicher Präferenz wird jedoch empfohlen, mit den Grundlagen in „Einfach sprechen“ zu starten.
+
+# Einfach sprechen (Teil 1) --- Mit Sicherheit und Freude vor Publikum stehen
+
+text
 
 ## Zentrale Idee
 
@@ -31,9 +44,9 @@ Grob gesprochen teilt sich die Veranstaltung in zwei Teile. In den morgentlichen
 
 |   | Montag | Dienstag | Mittwoch | Donnerstag | Freitag |
 |------------|------------|------------|------------|------------|------------|
-| 09:30--12:00 | *2 Minutenpräsentation* | *Langweile mich!* | *PowerPoint Maniak!* | *Was mich nie interessiert hat...* | *Analog ist das Fax!* |
-| 12:00--13:00 | **Mittag** | **Mittag** | **Mittag** | **Mittag** | **Mittag** |
-| 13:00--15:00 | Eigenständig *Langweile mich!* Präsentation erstellen | Eigenständig *PowerPoint Maniak!* Präsentation erstellen | Eigenständig *Was mich nie interessiert hat...* Präsentation erstellen | Eigenständig *Analog ist das Fax!* Präsentation erstellen und *PowerPoint Karaoke* raussuchen | *PowerPoint Karaoke* |
+| 09:30--12:30 | *2 Minutenpräsentation* | *Langweile mich!* | *PowerPoint Maniak!* | *Was mich nie interessiert hat...* | *Analog ist das Fax!* |
+| 12:30--13:30 | **Mittag** | **Mittag** | **Mittag** | **Mittag** | **Mittag** |
+| 13:30--16:00 | Eigenständig *Langweile mich!* Präsentation erstellen | Eigenständig *PowerPoint Maniak!* Präsentation erstellen | Eigenständig *Was mich nie interessiert hat...* Präsentation erstellen | Eigenständig *Analog ist das Fax!* Präsentation erstellen und *PowerPoint Karaoke* raussuchen | *PowerPoint Karaoke* |
 
 Präsentation *Langweile mich!*. 
 
@@ -66,6 +79,14 @@ HIer ein paar Varianten, die mir eingefallen sind und die wir eventuell mal ausp
 -   Die gelangweilte Zuhörerschaft
 -   Die Emotionen oder [Monster des Alltags](https://www.perlentaucher.de/buch/christian-moser/monster-des-alltags-noch-mehr-monster-band-3.html)
 
+# Lebendig präsentieren (Teil 2) --- Wie du dein Publikum mit Storytelling fesselst
+
+text
+
+# Informationen
+
+Jetzt folgen allgemeine Informationen zu den beiden Blockveranstaltungen sowie Quellen und Verweise.
+
 ## Quellen
 
 Für die Vorbereitung der Veranstaltung habe ich wie immer einiges an Videos und Internetseiten besucht. Dann noch das ein oder andere Buch gelesen und mich gefragt: "Tut das was zur Sache?". Hier also meine Liste an Inspirationen, die du dann vermutlich wieder erkennen wirst.
@@ -82,6 +103,7 @@ Hier findest du einmal eine Auswahl an YouTubern und auch Videos, die ich aus un
 6)  [Willi Weitzel: Vom Wissens-Star zum Träume-Macher | STATIONEN | BR](https://youtu.be/S3yUdiiNkVg)
 7)  [I Will Do It or Die – Jim Rohn’s Most Powerful Lesson on Discipline](https://youtu.be/TgzEY8ZPNso)
 8)  [Why Creativity Means Nothing](https://youtu.be/ytAgHsGt_uA)
+9)  [AlexanderTheCreate](https://www.youtube.com/@AlexanderTheCreate)
 
 ### Personen & Unternehmen
 
@@ -103,3 +125,15 @@ Es gibt Menschen und Unternehmen, die natürlich mit Präsentationen und Kommuni
 2)  [Role-playing game](https://en.wikipedia.org/wiki/Role-playing_game)
 3)  [Improvisationstheater](https://de.wikipedia.org/wiki/Improvisationstheater)
 4)  [LearningCenter HS Osnabrück](https://www.hs-osnabrueck.de/learningcenter/fuer-studierende/)
+
+## Zitate
+
+> *"Vielleicht ist dieses Umherrennen auf der Bühne auch ein Trick, dass man sich dem Publikum nicht so frontal stellen muss. Da hat man immer was zu tun. Es war am Anfang auch eine Methode, auf der Bühne zu überleben. Mit der Zeit haben wir das verinnerlicht und fühlen uns damit bis heute wohl." --- Campino, [taz Interview](https://taz.de/Bei-mir-hats-immer-nur-zum-Clown-gereicht-Campino-spricht-ueber-Verantwortung-und-Ueberlebens-Tricks-auf-der-Buehne/!6178001/)*
+
+### Prüfungsleistung
+
+Regelmäßige Teilnahme an der Veranstaltung.
+
+
+
+
