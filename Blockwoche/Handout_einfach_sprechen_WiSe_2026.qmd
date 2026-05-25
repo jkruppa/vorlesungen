@@ -27,7 +27,7 @@ Die Module bauen thematisch nicht zwingend aufeinander auf; „Einfach sprechen�
 
 # Einfach sprechen (Teil 1) --- Mit Sicherheit und Freude vor Publikum stehen
 
-text
+Im ersten Teil lernen wir mehr über das sichere Vortragen. Hier steht also mehr der Mensch im Mittelpunkt. Wie schaffen wir es, dass du dich sicherer fühlst und einen Vortrag halten kannst? Es ist doch eigentlich nur sprechen oder nicht?
 
 ## Zentrale Idee
 
@@ -81,7 +81,7 @@ HIer ein paar Varianten, die mir eingefallen sind und die wir eventuell mal ausp
 
 # Lebendig präsentieren (Teil 2) --- Wie du dein Publikum mit Storytelling fesselst
 
-text
+Nachdem wir uns mit der Person beschäftigt haben, die den Vortrag hält, wollen wir usn jetzt mit dem Vortrag selber und dem Thema des Vortrags beschäftigen. Wie können wir einen spannenden Vortrag jenseits der klassischen Struktur bauen? Sollte man das überhaupt und wenn ja, wie machen wir das?
 
 *Menschen interessieren geschichten über Menschen*
 
@@ -89,7 +89,18 @@ text
 
 *Es gibt Dinge, die müssen erst erfahren werden bevor sie gelernt werden können.*
 
-# Informationen
+## Ablauf der Veranstaltung
+
+Grob gesprochen teilt sich die Veranstaltung in zwei Teile. In den morgentlichen Blöcken hälst du den Vortrag, den du am vorherigen Nachmittag selbsständig gebaut hast.
+
+|   | Montag | Dienstag | Mittwoch | Donnerstag | Freitag |
+|------------|------------|------------|------------|------------|------------|
+| 09:30--12:30 | *2 Minutenpräsentation* | *Langweile mich!* | *PowerPoint Maniak!* | *Was mich nie interessiert hat...* | *Analog ist das Fax!* |
+| 12:30--13:30 | **Mittag** | **Mittag** | **Mittag** | **Mittag** | **Mittag** |
+| 13:30--16:00 | Eigenständig *Langweile mich!* Präsentation erstellen | Eigenständig *PowerPoint Maniak!* Präsentation erstellen | Eigenständig *Was mich nie interessiert hat...* Präsentation erstellen | Eigenständig *Analog ist das Fax!* Präsentation erstellen und *PowerPoint Karaoke* raussuchen | *PowerPoint Karaoke* |
+
+
+# Informationen zu beiden Blockveranstaltungen
 
 Jetzt folgen allgemeine Informationen zu den beiden Blockveranstaltungen sowie Quellen und Verweise.
 
