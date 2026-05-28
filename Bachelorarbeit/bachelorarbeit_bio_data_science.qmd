@@ -1,0 +1,153 @@
+---
+title: "Pfad zur Bachelorarbeit"
+subtitle: "Fachbereich Bio Data Science"
+author: "Prof. Dr. Jochen Kruppa-Scheetz"
+date: "06. March 2026"
+format:
+  html:
+    embed-resources: true
+    lang: de
+    theme: journal
+  pdf: 
+    colorlinks: true    
+---
+
+Alle relevanten Informationen zur Bachelorarbeit im Fachbereich Bio Data Science sind nachfolgend aufgeführt. Beginn und Abgabe der Abschlussarbeit sind im Semester jederzeit möglich. Die Anmeldung erfolgt über das [Studierendensekretariat der Hochschule Osnabrück](https://www.hs-osnabrueck.de/wir/organisation/organisationseinheiten/studierendensekretariat/). 
+
+Allgemeine Informationen zur Abschlussarbeit an der Fakultät AuL findest du in der [Infothek unter Studium](https://intranet.hs-osnabrueck.de/infothek/fakultaet-aul/studium/abschlussarbeiten/). Beachte bitte die dortigen aktuellen Merkblätter und Informationen zum formalen Prozess. Alle formalen Änderungen erfolgen ausschließlich über das Studierendensekretariat der Hochschule Osnabrück.
+
+::: {.callout-note icon=false}
+## Für deine Bachelorarbeit gelten folgende verbindliche Anforderungen
+
+- Die Bearbeitungszeit beträgt 12 Wochen.
+- Die Struktur muss der wissenschaftlichen Standardgliederung (Einleitung, Material & Methoden, Ergebnisse, Diskussion) folgen. Beachte hierzu die detaillierten Hinweise im [Leitfaden zum Verfassen wissenschaftlicher Arbeiten](https://intranet.hs-osnabrueck.de/index.php?eID=dumpFile&t=f&f=69598&token=ea18fc8431ccfbc422ae88c5f45a9963186870d8).
+- Der Bachelorarbeit ist eine [visuelle Zusammenfassung (eng. *visual abstract*)](https://www.bmj.com/content/bmj-visual-abstracts) beizufügen. Die visuelle Zusammenfassung ist eine eigenständige und selbsterklärende Abbildung, die eure Bachelorarbeit grafisch zusammenfasst.
+- Der Umfang der Arbeit ist auf 60 bis maximal 70 Seiten begrenzt. Diese Seitenzahl beinhaltet das Titelblatt, das Inhaltsverzeichnis sowie das vollständige Literaturverzeichnis.
+- Die Anzahl der Referenzen und Literaturquellen muss zwischen 40 und 70 liegen. Reine Internetquellen werden nicht als Literaturquellen anerkannt.
+:::
+
+Gleich zu Beginn ein Wort zur Softwarewahl für die Datenauswertung: Da mich häufig Fragen dazu erreichen, unterscheide ich hier zwischen zwei Schwerpunkten. Für methodisch orientierte Arbeiten ist die Nutzung von R und Programmierkenntnissen unerlässlich. Liegt der Fokus hingegen auf einer agrarwissenschaftlichen Fragestellung, kann auch Excel ausreichen. Die genaue Auswahl stimmen wir vor Beginn der Arbeit gemeinsam ab.
+
+::: {.callout-note icon=false}
+## Genutzte Programme für die Statistik
+
+**Fokus auf Data Science und Statistik — eine methodische Bachelorarbeit:**
+
+- Die Datenanalyse ist mit der Software RStudio und der Programmiersprache R durchzuführen
+
+**Fokus auf eigene Daten — eine experimentelle Bachelorarbeit:**
+
+- Die Datenanalyse kann mit der Software RStudio und der Programmiersprache R durchgeführt werden.
+- *Alternative* kann auch eine andere Software, wie Excel, verwendet werden.
+:::
+
+### Zeitlicher Ablauf 
+
+Die folgende Abbildung veranschaulicht den zeitlichen Ablauf der Bachelorarbeit. Diese umfasst eine Bearbeitungszeit von 12 Wochen, gefolgt von einem Abschlusskolloquium. Vor Beginn der eigentlichen Bearbeitungsphase findet eine vierwöchige Einarbeitungszeit statt.
+
+```{r}
+#| message: false
+#| warning: false 
+#| echo: false
+#| fig-align: center
+#| fig-height: 3.75
+#| fig-width: 9.5
+#| fig-cap: "**Übersicht zum Zeitplan der Bachelorarbeit.** Die Einarbeitungsphase umfasst vier Wochen, die Bearbeitungszeit zwölf Wochen. Im Anschluss an die Abgabe findet das Abschlusskolloquium statt. Die Seitenzahlen sind als grobe Richtlinie zu verstehen und können anfänglich abweichen."
+
+source("images.R")
+p2 + p1 +
+  plot_layout(ncol = 1, heights = c(4, 2))
+```
+
+### Betreuung
+
+Die Betreuung deiner Bachelorarbeit erfolgt über wöchentliche Online-Jour-Fixes via Zoom. Du erhältst den Teilnahmelink zu Beginn deiner Einarbeitungsphase per E-Mail. Die Teilnahme ist optional eine Abmeldung nicht nötig. Im Jour Fixe kannst du mir Fragen stellen und dich mit anderen Bachelorstudierenden austauschen.
+
+### Einarbeitung
+
+Diese Phase dient deiner Orientierung im vorläufigen Bachelorarbeitsthema, der Erstellung einer ersten Literaturübersicht und der Konkretisierung deiner wissenschaftlichen Fragestellung. Zudem ermöglicht sie dir, die Grundlagen der Programmierung in R und RStudio zu vertiefen, notwendige Pakete zu installieren und deine Daten in ein analysebereites Format zu überführen. Am Ende dieser Phase fühlst du dich sicher, mit deiner Bachelorarbeit zu beginnen.
+
+Themenfindung
+
+: Zu Beginn deiner Einarbeitung legen wir gemeinsam ein vorläufiges Bachelorarbeitsthema fest, das dir als Leitfaden dient. Während dieser Phase konkretisiert sich das Thema durch deine Mitarbeit und meine Unterstützung. Am Ende der Einarbeitung meldest du deine Bachelorarbeit offiziell an, und im Anschluss erhältst du dein endgültiges Thema. Ich ermutige dich, während der Einarbeitung Themenvorschläge einzubringen, die wir dann gemeinsam weiterentwickeln.
+
+Zweitprüfer
+
+: Denk bitte daran, rechtzeitig vor der Anmeldung deiner Bachelorarbeit einen passenden Zweitprüfer zu kontaktieren. Bei der Auswahl spielen deine persönlichen Interessen und die wissenschaftliche Ausrichtung deiner Arbeit eine wichtige Rolle. Lass uns gerne gemeinsam mögliche Zweitprüfer besprechen.  Ob ein externer Zweitprüfer geeignet ist, entscheidet final das [Studierendensekretariat der Hochschule Osnabrück](https://www.hs-osnabrueck.de/wir/organisation/organisationseinheiten/studierendensekretariat/). Die Anfrage an den Zweitprüfer erfolgt durch dich.
+
+::: {.callout-tip icon=false}
+## Am Ende der Einarbeitungsphase hast du...
+
+- Die Fähigkeit erworben, sicher in R zu programmieren und RStudio effizient zu nutzen.
+- Notwendige Daten für die Bearbeitung deines Bachelorarbeitsthemas erfolgreich in R geladen.
+- Das methodische und inhaltliche Fundament gelegt, um dein Thema selbstständig zu bearbeiten.
+- Dein Bachelorarbeitsthema für dich gefunden.
+:::
+
+### Bachelorarbeit
+
+Wenn du deine Bachelorarbeit im Fachbereich *"Bio Data Science"* bei mir schreibst, stehen dir grundsätzlich zwei thematische Schwerpunkte offen. Zum einen kannst du dich auf eine methodische Arbeit konzentrieren, bei der du vorhandene Daten von Dritten unter besonderer Berücksichtigung statistischer Methoden analysierst. Zum anderen besteht die Möglichkeit, deine eigenen Daten aus einem Experiment statistisch auszuwerten. Ich möchte jedoch ausdrücklich darauf hinweisen, dass ich selbst keine Möglichkeit zur Durchführung eigener Experimente anbieten kann. Solltest du dich für die Analyse eigener experimenteller Daten entscheiden, ist eine Kooperation mit externen Partnern notwendig.
+
+Mit fremde Daten --- eine methodische Bachelorarbeit
+
+: Die methodische Bachelorarbeit im Bereich *"Bio Data Science"* fokussiert auf den Vergleich und die Anwendung verschiedener statistischer Algorithmen auf externe Daten und Datenbanken. Dabei muss die Forschungsfrage teils aus den vorhandenen Daten abgeleitet werden, was naturgemäß eine gewisse Unvollständigkeit bedingen kann. Im Zentrum einer methodische Bachelorarbeit stehen somit die methodische und konzeptionelle Auseinandersetzung mit statistischen Algorithmen. Die Kernkomponenten der Bachelorarbeit umfassen die Programmierung in R, die Aufbereitung der Daten sowie die detaillierte Beschreibung der angewandten statistischen Algorithmen. Die Gewichtung dieser einzelnen Aspekte kann je nach spezifischer Fragestellung variieren.
+
+Mit eigene Daten --- eine experimentelle Bachelorarbeit
+
+: Die experimentelle Bachelorarbeit im Bereich *"Bio Data Science"* konzentriert sich auf die statistische Auswertung und die Beschreibung der Ergebnisse im Kontext der relevanten Forschungsliteratur, basierend auf deinen eigenen experimentellen Daten. Im Gegensatz zur methodischen Bachelorarbeit, bei der die Datenerstellung durch Dritte erfolgt, ist hier die (teilweise oder vollständige) Generierung des Datensatzes ein integraler Bestandteil deiner Leistung. Folglich steht die statistische Auswertung selbst nicht primär im Vordergrund, sondern vielmehr die Darstellung und Interpretation der gewonnenen Erkenntnisse im Hinblick auf den aktuellen Forschungsstand deiner spezifischen Fragestellung. Auch bei dieser Art von Arbeit kann die Gewichtung der einzelnen Aspekte je nach deiner konkreten Forschungsfrage variieren.
+
+::: {.callout-note icon=false}
+## ChatGPT oder ähnliche Tools in der Bachelorarbeit
+
+Angesichts des fortschreitenden Einsatzes von Künstlicher Intelligenz (KI) in der akademischen Welt, insbesondere von Tools wie ChatGPT, möchte ich die folgenden wichtigen Richtlinien für eure Abschlussarbeiten klarstellen:
+
+- **Zusätzliche PDF-Einreichung:** Neben der gebundenen Version eurer Abschlussarbeit ist zukünftig immer auch eine PDF-Version einzureichen. Diese digitale Version wird auf den Einsatz von KI-Tools überprüft.
+- **Akzeptabler KI-Einsatz:** KI-Tools sind hervorragende Lernhilfen und können euch bei der Strukturierung oder Ideenfindung unterstützen. Es ist jedoch nicht gestattet, ganze Absätze oder wesentliche Textteile von einer KI generieren zu lassen. Eure Abschlussarbeit muss eure eigene, selbstständige Leistung widerspiegeln und euren individuellen Schreibstil zeigen.
+- **Angabe der KI-Nutzung:** Solltet ihr ChatGPT oder ähnliche KI-Tools für die Textgenerierung genutzt haben, ist dies im Anhang eurer Arbeit detailliert zu vermerken. Gebt dort bitte die konkreten Prompts an, die ihr verwendet habt, und verortet diese Prompts den entsprechenden Kapiteln eurer Arbeit. Falls KI lediglich als Hilfe bei der Programmierung zum Einsatz kam, genügt ein einfacher Vermerk im Anhang (z.B. "Zur Unterstützung bei der Programmierung wurde KI verwendet.").
+- **Selbstverpflichtung:** Um die Integrität eurer Arbeit zu unterstreichen, kann die folgende Selbstverpflichtung in eure Bachelorarbeit aufgenommen werden.
+
+> During the preparation of this work the author(s) used [NAME TOOL / SERVICE] in order to [REASON]. After using this tool/service, the author(s) reviewed and edited the content as needed and take(s) full responsibility for the content of the published article.
+
+> Während der Vorbereitung dieser Arbeit benutzte(n) der/die Autor(en) [NAME TOOL / SERVICE], um [ANLASS]. Nach der Nutzung dieses Tools/Dienstes hat der/die Autor(en) den Inhalt nach Bedarf überprüft und bearbeitet und übernimmt/übernehmen die volle Verantwortung für den Inhalt des veröffentlichten Artikels.
+
+- **Visueller Abstract:** Ab sofort ist jeder Bachelorarbeit ein visueller Abstract (engl. visual abstract) beizufügen. Ein visueller Abstract ist eine eigenständige und selbsterklärende Abbildung, die eure Bachelorarbeit grafisch zusammenfasst. Stellt es euch wie eine Infografik vor, die auf einen Blick die wichtigsten Aspekte eurer Forschungsarbeit – die Fragestellung, die Methoden, die zentralen Ergebnisse und die Schlussfolgerungen – übersichtlich darstellt. Das Ziel ist es, Lesenden einen schnellen Überblick über den Inhalt eurer Arbeit zu ermöglichen und Interesse zu wecken, sich intensiver damit zu beschäftigen. Ein gutes Beispiel für die Gestaltung und den Zweck von visuellen Abstracts findet ihr unter diesem Link: [BMJ Visual Abstracts](https://www.bmj.com/content/bmj-visual-abstracts).
+
+:::
+
+### Schreibprozess
+
+Der Schreibprozess ist nicht einfach. Einen wissenschaftlichen text zu schreiben ist anstrengend. In meinen [Openbook Bio Data Science](https://jkruppa.github.io/) findest du auch das [Kapitel zur Abschlussarbeit](https://jkruppa.github.io/abschlussarbeit.html) und dort Hilfestellungen zum Schreiben. Das Methodenportal der Universität Leipzig bietet unter [Der Forschungsprozess - Universität Leipzig | Methodenportal](https://home.uni-leipzig.de/methodenportal/forschungsprozess) einen Leitfaden für das Schreiben und Forschen. Ich habe dort auch die folgende Abbildung entnommen, die dir eventuell eine Hilfe sein mag.
+
+![Darstellung des Forschungs- und Schreibprozesses in fünf Schritten aufgeteilt nach Reden, Schreiben und Lesen.](schreibprozess.jpg){#fig-schreiben fig-align="center" width="100%"}
+
+### Zwischenpräsentation
+
+Die Zwischenpräsentation dient dem gemeinsamen Abgleich unseres Wissens- und Arbeitsstands. Gleichzeitig stellt sie einen ersten Entwurf für dein Abschlusskolloquium dar. Gestalte die Zwischenpräsentation mit circa 10 PowerPoint-Folien entsprechend der wissenschaftlichen Standardgliederung (Einleitung, Material & Methoden, Ergebnisse, Diskussion), wobei einzelne Abschnitte bei fehlenden Inhalten gekürzt werden können. Bitte verzichte auf R-Code und unformatierte R-Ausgaben und konzentriere dich auf Visualisierungen und tabellarische Darstellungen. 
+
+::: {.callout-tip icon=false}
+## Mit der Erstellung der Zwischenpräsentation hast du...
+
+- Den roten Faden deines Bachelorarbeitsthemas klar herausgearbeitet und verinnerlicht.
+- Dein Forschungsthema präzisiert und in den Kontext der erhobenen Daten gesetzt.
+- Die Daten in R zielgerichtet visualisiert und erste explorative Analysen durchgeführt.
+:::
+
+### Abschlusskolloquium
+
+Im Abschlusskolloquium präsentierst du die Kernaussagen deiner Bachelorarbeit und deren Bezug zur bisherigen Forschung. Stelle deine eigenen Ergebnisse in den Mittelpunkt. Der Fokus soll klar auf deinen eigenen Resultaten liegen. Gestalte die Präsentation mit einem klaren roten Faden und nutze aussagekräftige Visualisierungen (gerne mithilfe von KI-Tools wie ChatGPT), um textreiche Folien zu vermeiden. Es handelt sich um einen wissenschaftlichen Vortrag.
+
+::: {.callout-note icon=false}
+## Für dein Abschlusskolloquium gelten folgende verbindliche Anforderungen
+
+- **Zeitrahmen:** Maximal 20 Minuten Präsentationsdauer.
+- **Umfang:** Orientierend ca. 20 PowerPoint-Folien.
+- **Gliederung:** Nutze die wissenschaftliche Standardstruktur (Einleitung, Material & Methoden, Ergebnisse, Diskussion, Literaturverzeichnis).
+- **Inhalt:** Fokus auf ausgewählte Inhalte, die deine Forschungsfrage beantworten. Die Präsentation ist ein fokussierter Ausschnitt deiner Bachelorarbeit.
+- **Fokus:** Kein umfassendes Review des Forschungsstands oder Stand des Wissens; halte diesen Abschnitt kurz und konzentriere dich auf deine eigene Arbeit.
+:::
+
+### Bewertung der Bachelorarbeit
+
+Die Bewertung der Bachelorarbeit basiert auf der schriftlichen Ausarbeitung. Bei methodischen Arbeiten fließt zusätzlich die Programmierung in R in die Beurteilung ein. Die Präsentation im Abschlusskolloquium ist ebenfalls Teil der Endnote. Weitere Bewertungskriterien sind die Qualität der erstellten Abbildungen sowie die Einbettung des Themas in die relevante Literatur und wissenschaftliche Forschung. Ein deutliches Übermaß an Grammatik- und Rechtschreibfehlern führt zu Punktabzug.
+
+
