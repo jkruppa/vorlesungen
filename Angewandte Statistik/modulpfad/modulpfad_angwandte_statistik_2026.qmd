@@ -1,0 +1,122 @@
+---
+title: "Modulpfad Angewandte Statistik"
+subtitle: "Der folgende Pfad strukturiert das Modul und dient Ihnen als Leitfaden zur besseren Orientierung."
+author: "Jochen Kruppa-Scheetz"
+date: "16. February 2027"
+format:
+  html:
+    embed-resources: true
+    lang: de
+    theme: journal
+  pdf:
+    colorlinks: true
+---
+
+::: {.callout-note icon="false"}
+## Gültigkeit
+
+Dieses Dokument ist für das **Wintersemester 2026/27** und das darauffolgende **Sommersemester 2027** gültig.
+:::
+
+Alle notwendigen zusätzlichen Informationen zum Modul finden Sie auf ILIAS, einschließlich:
+
+-   Mitschriften der Vorlesung und der Übungen
+-   R-Skripte und die in der Vorlesung verwendeten Dateien
+
+Beachten Sie bitte auch die zusätzlichen Informationen zu einzelnen Terminen auf ILIAS.
+
+### Skript als Lernhilfe
+
+Das Openbook *Bio Data Science* dient als Skript der Veranstaltung und ist online unter <https://jkruppa.github.io/> verfügbar. Dort finden Sie ergänzend weiterführende Informationen zu R, Excel und der Datenauswertung. 
+
+### Videos als Lernhilfe
+
+Ergänzend zum Openbook *Bio Data Science* und den Veranstaltungsmitschriften stehen Ihnen unterstützende Lernvideos zur Veranstaltung auf YouTube unter <https://www.youtube.com/c/JochenKruppa> zur Verfügung. Dort finden Sie thematisch sortierte Playlists zu R- und Excel-Analysen sowie allgemeine Statistik-Videos.
+
+### Programmieren in R
+
+Zum Verständnis der Programmierung in R stehen Ihnen das Openbook *Bio Data Science* und YouTube-Videos unter <https://www.youtube.com/c/JochenKruppa> zur Verfügung.
+
+::: {.callout-note icon="false"}
+## Aktive Teilnahme
+
+-   Programmieren in R ist integraler Bestandteil der Veranstaltung.
+-   Die optionale Hausarbeit erfordert die selbstständige Anwendung von R.
+-   Theoretische R-Kenntnisse sind klausurrelevant.
+:::
+
+### Inhalt der Vorlesung
+
+Nachfolgend finden Sie eine Übersicht der Modulinhalte. Die Weblinks führen Sie zu den entsprechenden YouTube-Videos. Eine umfassende Übersicht über die Modulinhalte bietet Ihnen die [YouTube-Playlist Openbook *Bio Data Sciene*](https://www.youtube.com/watch?v=2stKP2iLGYY&list=PLe51bCp9JvEHAD63zTDE_jS3HNYuG6BrB). Diese Videos sind als Ergänzung und zur Wiederholung konzipiert.
+
+|   | Datum | Dozent | Schwerpunkt |
+|---|---------|------------|------------------------------------|
+| \[1.\] | xx.xx.2026 | Kruppa-Scheetz | Organisation / Vorstellung / Gummibärchen |
+| \[2.\] | xx.xx.2026 | Kruppa-Scheetz | Was ist Wissenschaft? / Was sind Daten? |
+| \[3.\] | xx.xx.2026 | Kruppa-Scheetz | Einführung Programmieren in R |
+| \[4.\] | xx.xx.2026 | Kruppa-Scheetz | Grundlagen des statistischen Testens |
+| \[5.\] | xx.xx.2026 | Kruppa-Scheetz | Besprechung Ihrer Datensätze für die Hausarbeit. Welche Fragen und Probleme treten auf? Wo brauchen Sie Hilfe? |
+| \[6.\] | xx.xx.2026 | Kruppa-Scheetz | Faktorielle Experimente mit t-Test und ANOVA |
+| \[7.\] | xx.xx.2026 | Kruppa-Scheetz | Kovariate Experimente mit der linearen Regression |
+| \[8.\] | xx.xx.2026 | Kruppa-Scheetz | Gemischte Modelle für Messwiederholungen |
+| \[9.\] | xx.xx.2026 | Kruppa-Scheetz | Vorhersagen aus prädiktiven Modellen |
+| \[10.\] | xx.xx.2026 | Kruppa-Scheetz | Präsentation der Hausarbeit |
+
+: Übersicht der Inhalte des Moduls *"Angewandte Statistik"*. Die Lage der Inhalte kann sich im laufenden Semester verschieben und nach den Bedürfnissen der Teilnehmenden angepasst werden. Bitte beachten Sie die entsprechenden Informationen während der Veranstaltungen. {#tbl-uebersicht}
+
+### Prüfungsleistung
+
+Die Prüfungsleistung umfasst eine Hausarbeit und eine Präsentation. Für beide werden Punkte vergeben. Zum Bestehen ist das Gesamtergebnis entscheidend, nicht das Ergebnis einzelner Teilleistungen. Die Abgabe der Hausarbeit ist verbindlich. Das Halten der Präsentation ist freiwillig.
+
+Die Prüfungsphase ist im Wintersemester im Januar und im Sommersemester im Juni. Den Prüfungsplan für das laufende Semester finden Sie im Intranet der Hochschule Osnabrück unter <https://intranet.hs-osnabrueck.de/infothek/fakultaet-aul/studium/pruefungen/>.
+
+#### Hausarbeit
+
+Alle relevanten Informationen zur Hausarbeit für das Modul *"Angewandte Statistik"* sind nachfolgend aufgeführt. Die Abgabe ist im Laufe des Semesters jederzeit möglich.
+
+Die Abgabe der Hausarbeit ist für das Bestehen des Moduls *"Angewandte Statistik"* erforderlich.
+
+::: {.callout-note icon="false"}
+## Abgabe der Hausarbeit als PDF-Datei
+
+Für die Abgabe gehen Sie bitte wie folgt vor:
+
+1)  Laden Sie Ihre PDF-Datei in den ILIAS-Abgabeordner hoch.
+2)  Benennen Sie die Datei mit Ihrem Namen und Ihrer Matrikelnummer.
+3)  Die Abgabe muss bis zum **31. Januar 2027** erfolgen.
+:::
+
+##### Datenanalyse in R
+
+Die Datenanalyse ist als reine Einzelleistung zu erbringen. Dies umfasst sowohl die eigenständige Erhebung der Daten als auch deren anschließende Analyse für die Hausarbeit. Eine Zusammenarbeit in Gruppen ist ausgeschlossen; die finale Abgabe des Textes muss von jeder Person individuell und selbstständig erfolgen.
+
+::: {.callout-note icon="false"}
+## Formalia
+
+Für Ihre Hausarbeit gelten folgende Anforderungen:
+
+1)  Die Hausarbeit ist im IMRaD-Schema zu verfassen.
+2)  Der Umfang beträgt maximal 20 Seiten reinen Fließtextes mit Titelblatt und Literaturverzeichnis. Aufzählungen sind nicht zulässig.
+3)  Die Datenanalyse ist mit der Software RStudio und R durchzuführen.
+:::
+
+Im Modul *"Angewandte Statistik"* entwickeln Sie in eigenständig eine individuelle wissenschaftliche Fragestellung. Sie generieren die passenden Daten oder nutzen die bereitgestellten Daten auf ILIAS, führen die statistische Analyse eigenständig in R durch und stellen Ihre Erkenntnisse im Rahmen einer abschließenden Präsentation vor.
+
+Ihre Hausarbeit wird nach folgenden Kriterien bewertet:
+
+-   **Einleitung (2 Punkte):** Entwicklung einer wissenschaftlichen Fragestellung auf Basis der ausgewählten Daten.
+-   **Materialien und Methoden (4 Punkte):**
+    -   Beschreibung des Datensatzes anhand der gegebenen Informationen.
+    -   Beschreibung der angewandten statistischen Methoden zur Datenauswertung.
+-   **Ergebnisse (4 Punkte):**
+    -   Visualisierung der Daten im Kontext der Fragestellung. 
+    -   Bericht der Ergebnisse und Erkenntnisse aus der statistischen Analyse.
+-   **Diskussion (2 Punkte):** Bewertung der Ergebnisse im Kontext der Fragestellung.
+-   **Präsentation (6 Punkte):** Darstellung der Ergebnisse in einem kurzem Vortrag.
+
+##### Benotung
+
+Das Modul gilt als bestanden, wenn eine den formalen Anforderungen entsprechende Hausarbeit erfolgreich erbracht wurde. Weitere Prüfungsleistungen sind nicht erforderlich.
+
+Ihre Leistung in der Hausarbeit und der Präsentation wird mit bis zu 18 Punkten bewertet. Diese Punkte bestimmen dann Ihre endgültige Modulnote.
+
