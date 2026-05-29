@@ -1,8 +1,8 @@
 ---
-title: "Modulpfad Statistik"
+title: "Modulpfad Angewandte Statistik und Versuchswesen"
 subtitle: "Der folgende Pfad strukturiert das Modul und dient Ihnen als Leitfaden zur besseren Orientierung."
 author: "Jochen Kruppa-Scheetz"
-date: "08. Dezember 2025"
+date: "19. May 2026"
 format:
   html:
     embed-resources: true
@@ -15,7 +15,7 @@ format:
 ::: {.callout-note icon="false"}
 ## Gültigkeit 
 
-Dieses Dokument ist für das **Wintersemester 2026/27** und das darauffolgende **Sommersemester 2027** gültig.
+Dieses Dokument ist für das **Sommersemester 2027** und das darauffolgende **Wintersemester 2027/22** gültig.
 :::
 
 Alle notwendigen zusätzlichen Informationen zum Modul finden Sie auf ILIAS, einschließlich:
@@ -57,7 +57,8 @@ Nachfolgend finden Sie eine Übersicht der Modulinhalte. Die Weblinks führen Si
 5) [Die Testtheorie](https://jkruppa.github.io/stat-tests-theorie.html)
 6) [Der t-Test](https://jkruppa.github.io/stat-tests-ttest.html)
 7) [Die ANOVA](https://jkruppa.github.io/stat-tests-anova2.html)
-8) [Der Chi-Quadrat-Test](https://jkruppa.github.io/stat-tests-chi-test.html)
+8) [Der Post-hoc Test](https://jkruppa.github.io/stat-tests-posthoc2.html)
+9) [Experimentelle Designs](https://jkruppa.github.io/experimental-design-preface.html)
 
 ### Prüfungsleistung
 
@@ -85,37 +86,33 @@ Auf ILIAS finden Sie eine PDF-Datei mit allen potenziellen Klausurfragen des Mod
 
 #### Inhalt der Klausur
 
-Die Klausurinhalte werden jedes Wintersemester aktualisiert. Aus diesem Grund beziehen sich die hier bereitgestellten Aufgaben ausschließlich auf die Hauptklausur des Wintersemesters und die Nachklausur des darauffolgenden Sommersemesters. Für Wiederholungsprüfungen in folgenden Jahren ist es entscheidend, den jeweils aktuellen Stoff zu beachten.
+Die Klausurinhalte werden jedes Sommersemester aktualisiert. Aus diesem Grund beziehen sich die hier bereitgestellten Aufgaben ausschließlich auf die Hauptklausur des ommersemesters und die Nachklausur des darauffolgenden Wintersemesters. Für Wiederholungsprüfungen in folgenden Jahren ist es entscheidend, den jeweils aktuellen Stoff zu beachten.
 
 *Es werden sechs der folgenden Statistikaufgaben in der Klausur drankommen.*
 
 1) Zerforschen des Barplots
-2) Visualisierung des Barplots 
+2) Visualisierung des Barplots
 3) Zerforschen des Boxplots
 4) Visualisierung des Boxplots
 5) Visualisierung des Scatterplots
-6) Visualisierung des Mosaicplots
+6) Visualisierung von Verteilungen
 7) Grundgesamtheit und experimentelle Stichprobe
-8) Das Nullritual - Die statistische Testtheorie
-9) Visualisierung der Teststatistik und dem p-Wert 
-10) Berechnung des Student t-Test oder Welch t-Test
-11) Berechnung des Student t-Test 
-12) Interpretation des t-Tests in  R: Teststatistik und p-Wert
-13) Interpretation des t-Tests in  R: die Visualisierung
-14) Berechnung des gepaarten t-Test
-15) nterpretation des gepaarten t-Tests in R
-16) Visualisierung der einfaktoriellen ANOVA
-17) Ergebnistabelle der einfaktoriellen ANOVA
-18) Die einfaktorielle ANOVA in R
-19) Den Chi-Quadrat-Test berechnen 
-20) Den Chi-Quadrat-Test mit Effektmaß berechnen
-21) Den Chi-Quadrat-Test in einem Fragebogen berechnen
+8) Visualisierung des 95% Konfidenzintervalls
+9) Zusammenhang zwischen dem Effekt, der Streuung sowie der Fallzahl 
+10) Die einfaktoriellen ANOVA und der Student t-Test
+11) Interpretation des t-Tests in  R: Teststatistik und p-Wert
+12) Interpretation des t-Tests in  R: die Visualisierung
+13) Ergebnistabelle der zweifaktoriellen ANOVA
+14) Die zweifaktorielle ANOVA in R
+15) Interaktion in der zweifaktoriellen ANOVA
+16) Schätzen der Korrelation und des Bestimmtheitsmaßes
+17) Visualisierung der Korrelation und des Bestimmtheitsmaßes 
 
 #### Hausarbeit
 
-Alle relevanten Informationen zur Hausarbeit für das Modul *"Statistik"* sind nachfolgend aufgeführt. Die Abgabe ist im Laufe des Semesters jederzeit möglich.
+Alle relevanten Informationen zur Hausarbeit für das Modul *"Angewandte Statistik und Versuchswesen"* sind nachfolgend aufgeführt. Die Abgabe ist im Laufe des Semesters jederzeit möglich.
 
-Die Abgabe der Hausarbeit ist für das Bestehen des Moduls *"Statistik"* nicht erforderlich.
+Die Abgabe der Hausarbeit ist für das Bestehen des Moduls *"Angewandte Statistik und Versuchswesen"* nicht erforderlich.
 
 ::: {.callout-note icon="false"}
 ## Abgabe der Hausarbeit als PDF-Datei
@@ -124,7 +121,7 @@ Für die Abgabe gehen Sie bitte wie folgt vor:
 
 1)  Laden Sie Ihre PDF-Datei in den ILIAS-Abgabeordner hoch.
 2)  Benennen Sie die Datei mit Ihrem Namen und Ihrer Matrikelnummer.
-3)  Die Abgabe muss bis zum **21. Dezember 2025** erfolgen.
+3)  Die Abgabe muss bis zum **31. Juni 2027** erfolgen.
 :::
 
 ##### Datenanalyse in R
@@ -141,70 +138,19 @@ Für Ihre Hausarbeit gelten folgende Anforderungen:
 3)  Die Datenanalyse ist mit der Software RStudio und R durchzuführen.
 :::
 
-Im Modul *"Statistik"* arbeiten Sie in Gruppen an einem Projekt, bei dem Sie einen Fragebogen entwickeln. Dieser wird von den anderen Teilnehmenden des Moduls ausgefüllt. Die daraus gewonnenen Daten verwenden Sie als Grundlage für Ihre Hausarbeit. Ihre wissenschaftliche Fragestellung erarbeiten Sie eigenständig in Ihrer Gruppe.
-
-::: {.callout-note icon="false"}
-## Vorgaben für die Fragen
-
-Achten Sie beim Erstellen Ihres Fragebogens darauf, dass die folgenden Vorgaben erfüllt sind.
-
-1)  **Erste Frage: Dichotome Frage** Mit dieser Frage unterteilen Sie die Teilnehmenden in zwei Gruppen. Hier ist nur eine Ja/Nein-Antwort möglich.
-
-*Beispiel: "Haben Sie bereits Erfahrung mit statistischer Datenauswertung?"*
-
-2.  **Zweite Frage: Kontinuierliche Frage** Diese Frage sollte eine kontinuierliche Antwort ermöglichen, also eine Antwort, die jeden beliebigen Wert in einem bestimmten Bereich annehmen kann.
-
-*Beispiel: "Wie viele Stunden pro Woche verbringen Sie durchschnittlich mit der Vorbereitung auf das Statistik-Modul?"*
-
-3.  **Dritte Frage: Kategoriale Frage mit drei Optionen** Diese Frage hat eine kategoriale Antwort mit drei festen Auswahlmöglichkeiten.
-
-*Beispiel: "Welche Vorkenntnisse in Statistik bringen Sie mit?"*
-
-*( ) Keine*
-
-*( ) Geringe*
-
-*( ) Umfangreiche*
-
-4.  **Vierte Frage: Kategoriale Frage mit fünf Optionen** Diese Frage hat eine kategoriale Antwort mit fünf festen Auswahlmöglichkeiten.
-
-*Beispiel: "Wie bewerten Sie die bisherige Qualität der Vorlesung?"*
-
-*( ) Sehr schlecht*
-
-*( ) Schlecht*
-
-*( ) Mittelmäßig*
-
-*( ) Gut*
-
-*( ) Sehr gut*
-
-5.  **Fünfte Frage: Kategoriale Frage mit zwei Optionen** Diese Frage hat eine kategoriale Antwort mit zwei festen Auswahlmöglichkeiten.
-
-*Beispiel: "Nehmen Sie regelmäßig an den Tutorien teil?"*
-
-*( ) Ja*
-
-*( ) Nein*
-
-:::
+Im Modul *"Angewandte Statistik und Versuchswesen"* entwickeln Sie in Zweiergruppen eine individuelle wissenschaftliche Fragestellung. Sie wählen die passenden Daten, führen die statistische Analyse eigenständig in R durch und stellen Ihre Erkenntnisse im Rahmen einer abschließenden Präsentation vor.
 
 Ihre Hausarbeit wird nach folgenden Kriterien bewertet:
 
--   **Einleitung (1 Punkt):** Entwicklung einer wissenschaftlichen Fragestellung auf Basis der ausgewählten Daten.
+-   **Einleitung (2 Punkte):** Entwicklung einer wissenschaftlichen Fragestellung auf Basis der ausgewählten Daten.
 -   **Materialien und Methoden (2 Punkte):**
-    -   Beschreibung des Fragebogens anhand der gegebenen Informationen.
+    -   Beschreibung des Datensatzes anhand der gegebenen Informationen.
     -   Beschreibung der angewandten statistischen Methoden zur Datenauswertung.
--   **Ergebnisse (2 Punkte):**
-    -   Visualisierung der Daten im Kontext der Fragestellung.
-    -   Bericht der Ergebnisse und Erkenntnisse aus der statistischen Analyse.
--   **Diskussion (1 Punkt):** Bewertung der Ergebnisse im Kontext der Fragestellung.
--   **Präsentation (6 Punkte):** Darstellung der Ergebnisse in einem kurzem Vortrag.
-
+-   **Ergebnisse (4 Punkte):**
+    -   Visualisierung der Daten im Kontext der Fragestellung **(2 Punkte)**.
+    -   Bericht der Ergebnisse und Erkenntnisse aus der statistischen Analyse **(2 Punkte)**.
+-   **Diskussion (2 Punkte):** Bewertung der Ergebnisse im Kontext der Fragestellung.
 
 ##### Benotung
 
 Ihre Leistung im Bericht und der Datenauswertung wird mit bis zu 12 Punkten bewertet. Diese Punkte fließen direkt in Ihre Gesamtnote ein, indem sie zu Ihrer Klausurpunktzahl addiert werden. Die erreichte Summe bestimmt dann Ihre endgültige Modulnote.
-
-
