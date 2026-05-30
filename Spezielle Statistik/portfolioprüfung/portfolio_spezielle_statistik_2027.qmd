@@ -144,14 +144,14 @@ Wählen Sie einen Aspekt Ihrer Portfolioprüfung aus und stellen Sie ihn in eine
 ## Formalia
 Für Ihre Exkursion gelten folgende Anforderungen:
 
-1) Wählen Sie für Ihre Exkursion entweder den Hasefriedhof oder den Johannisfriedhof in Osnabrück.
-2) Führen Sie eine eigenverantwortliche Exkursion durch, die sich auf die folgenden Teilaufgaben bezieht. **(+1 Punkt)**
+1) Wählen Sie für Ihre Exkursion einen wissenschaftlichen Ort (Museum, Forschungseinrichtung, Planetarium, etc.) **außerhalb** von Osnabrück.
+2) Führen Sie eine eigenverantwortliche Exkursion durch, die sich auf die folgenden Teilaufgaben bezieht.
 3) Erstellen Sie ein aussagekräftiges Foto von einem Objekt Ihrer Exkursion und fügen Sie dieses in Ihr Dokument ein.
 :::
 
-Entdecken Sie während Ihrer Exkursion eine Persönlichkeit, deren Leben und Werk Sie inspiriert. Diese Person sollte im weitesten Sinne einen Bezug zur Wissenschaft haben. Beachten Sie, dass die Grenzen zwischen den Disziplinen zu Beginn des 20. Jahrhunderts oft fließend waren, daher ist der Begriff *"Wissenschaft"* hier weit gefasst.
+Entdecken Sie während Ihrer Exkursion eine Persönlichkeit, Ort oder Objekt deren Leben und Werk Sie inspiriert. Dieses sollte im weitesten Sinne einen Bezug zur Wissenschaft haben. Beachten Sie, dass die Grenzen zwischen den Disziplinen zu Beginn des 20. Jahrhunderts oft fließend waren, daher ist der Begriff *"Wissenschaft"* hier weit gefasst.
 
-- Verfassen Sie eine Reflexion von ein bis zwei Seiten, in der Sie diese Persönlichkeit und ihr wissenschaftliches Wirken im Kontext Ihrer eigenen (familiären) Erfahrungen betrachten.
+- Verfassen Sie eine Reflexion von ein bis zwei Seiten, in der Sie diese Persönlichkeit, Ort oder Objekt und ihr wissenschaftliches Wirken im Kontext Ihrer eigenen (familiären) Erfahrungen betrachten.
 
 ## Reflexion (optional)
 
@@ -167,7 +167,7 @@ Besuchen Sie die Webseite <https://www.bigbookofr.com/> und wählen Sie ein Buch
 
 ## Benotung
 
-Die folgende Tabelle zeigt die Benotungsgrundlage für dieses Modul. Es können maximal 22 Punkte erreicht werden. Zum Bestehen des Moduls sind mindestens 11 Punkte erforderlich.
+Die folgende Tabelle zeigt die Benotungsgrundlage für dieses Modul. Es können maximal 23 Punkte erreicht werden. Zum Bestehen des Moduls sind mindestens 11 Punkte erforderlich.
 
 - **Bonuspunkte:** Aufgaben mit Teilpunkten in *kursiven Klammern ( )* bieten die Möglichkeit, zusätzliche Bonuspunkte zu erlangen.
 - **Mindestpunktzahl:** Aufgaben mit Teilpunkten in **fettgedruckten Klammern [ ]** müssen mindestens erreicht werden."
@@ -180,6 +180,6 @@ Die folgende Tabelle zeigt die Benotungsgrundlage für dieses Modul. Es können 
 | Zerforschung I        | 0, **[1]**, 2, 3, 4, 5 |      
 | Zerforschung II       | 0, **[1]**, 2       |        
 | Zerforschung III      | 0, **[1]**, 2, 3, 4, 5 |       
-| Erforschen & Erkunden | 0, 1, *(2)*       |       
+| Erforschen & Erkunden | 0, 1, 2, 3       |       
 | Reflexion             | 0, 1       |        
 

@@ -26,6 +26,22 @@ Alle notwendigen zusätzlichen Informationen zum Modul finden Sie auf ILIAS, ein
 
 Beachten Sie bitte auch die zusätzlichen Informationen zu einzelnen Terminen auf ILIAS. 
 
+### Allgemeiner Ablauf
+
+Das Modul *"Mathematik & Statistik"* findet wöchentlich in zwei Blöcken zu je 90 Minuten statt:
+
+**Montag, 09:45 – 11:15 Uhr | Präsenztermin mit YouTube Livestream**
+
+- Dieser Termin findet vor Ort statt, ich bin durchgehend anwesend.
+- Rauminformationen finden Sie auf ILIAS.
+
+**Mittwoch, 11:15 – 13:15 Uhr | Präsenztermin mit YouTube Livestream**
+
+- Dieser Termin findet vor Ort statt, ich bin durchgehend anwesend.
+- Rauminformationen finden Sie auf ILIAS.
+
+Den YouTube Livestream-Link sowie die aktuellen Raumangaben entnehmen Sie bitte direkt ILIAS.
+
 ### Skript als Lernhilfe
 
 Das Openbook *Bio Data Science* dient als Skript der Veranstaltung und ist online unter <https://jkruppa.github.io/> verfügbar. Dort finden Sie ergänzend weiterführende Informationen zu R, Excel und der Datenauswertung. *Für die Klausur sind jedoch primär die Inhalte der Veranstaltungsmitschriften relevant.* Beachten Sie die Veranstaltungsmitschriften daher besonders.

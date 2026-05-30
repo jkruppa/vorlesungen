@@ -20,6 +20,22 @@ Alle notwendigen zusätzlichen Informationen zum Modul finden Sie auf ILIAS, ein
 
 Beachten Sie bitte auch die zusätzlichen Informationen zu einzelnen Terminen auf ILIAS. 
 
+### Allgemeiner Ablauf
+
+Das Modul *"Spezielle Statistik und Versuchswesen"* findet wöchentlich in zwei Blöcken zu je 90 Minuten statt:
+
+**Mittwoch, 09:45 – 11:15 Uhr | Präsenztermin**
+
+- Dieser Termin findet vor Ort statt, ich bin durchgehend anwesend.
+- Rauminformationen finden Sie auf ILIAS.
+
+**Donnerstag, 09:45 – 11:15 Uhr | Freies Arbeiten**
+
+- Diese Zeit nutzen Sie eigenverantwortlich für die Bearbeitung der Aufgaben (in der Hochschule oder von zu Hause aus).
+- Für Fragen stehe ich Ihnen um 10:00 Uhr per Zoom zur Verfügung.
+
+Den Zoom-Link sowie die aktuellen Raumangaben für die Mittwochstermine entnehmen Sie bitte direkt ILIAS.
+
 ### Skript als Lernhilfe
 
 Das Openbook *Bio Data Science* dient als Skript der Veranstaltung und ist online unter <https://jkruppa.github.io/> verfügbar. Dort finden Sie ergänzend weiterführende Informationen zu R, Excel und der Datenauswertung. 
