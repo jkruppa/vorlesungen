@@ -31,13 +31,14 @@ Das Modul *"Spezielle Statistik und Versuchswesen"* findet wöchentlich in zwei 
 
 **Donnerstag, 13:15 – 14:45 Uhr | Präsenztermin**
 
-- Dieser Termin findet vor Ort statt, ich bin durchgehend anwesend.
-- Rauminformationen finden Sie auf ILIAS.
+-   Dieser Termin findet vor Ort statt, ich bin durchgehend anwesend.
+-   Keine Plicht zur Teilnahme an den einzelnen Terminen.
+-   Rauminformationen finden Sie auf ILIAS.
 
 **Selbstgewählter Zeitraum | Freies Arbeiten**
 
-- Diese Zeit nutzen Sie eigenverantwortlich für die Bearbeitung der Hausaufgabe (in der Hochschule oder von zu Hause aus).
-- Für Fragen stehe ich Ihnen um per Zoom an ausgewählten Terminen zur Verfügung.
+-   Diese Zeit nutzen Sie eigenverantwortlich für die Bearbeitung der Hausaufgabe (in der Hochschule oder von zu Hause aus).
+-   Für Fragen stehe ich Ihnen um per Zoom an ausgewählten Terminen zur Verfügung.
 
 Den Zoom-Link für die Beratungen zur Hausarbeit sowie die aktuellen Raumangaben für die Mittwochstermine entnehmen Sie bitte direkt ILIAS.
 
@@ -113,7 +114,7 @@ Für Ihre Hausarbeit gelten folgende Anforderungen:
 
 1)  Die Hausarbeit ist im IMRaD-Schema zu verfassen.
 2)  Der Umfang beträgt maximal 20 Seiten reinen Fließtextes mit Titelblatt und Literaturverzeichnis. Aufzählungen sind nicht zulässig.
-3)  Die Datenanalyse ist mit der Software RStudio und R durchzuführen.
+3)  Die Datenanalyse ist mit der Software RStudio und R durchzuführen, *kann nach Absprache aber auch in einer anderen Software erfolgen*.
 :::
 
 Im Modul *"Angewandte Statistik"* entwickeln Sie in eigenständig eine individuelle wissenschaftliche Fragestellung. Sie generieren die passenden Daten oder nutzen die bereitgestellten Daten auf ILIAS, führen die statistische Analyse eigenständig in R durch und stellen Ihre Erkenntnisse im Rahmen einer abschließenden Präsentation vor.
