@@ -26,6 +26,22 @@ Alle notwendigen zusätzlichen Informationen zum Modul finden Sie auf ILIAS, ein
 
 Beachten Sie bitte auch die zusätzlichen Informationen zu einzelnen Terminen auf ILIAS. 
 
+### Allgemeiner Ablauf
+
+Das Modul *"Statistik"* findet wöchentlich in zwei Blöcken zu je 90 Minuten statt:
+
+**Dienstag, 11:30 – 13:00 Uhr | Präsenztermin**
+
+-   Dieser Termin findet vor Ort statt, ich bin durchgehend anwesend.
+-   Keine Plicht zur Teilnahme an den einzelnen Terminen.
+
+**Dienstag, 13:15 – 14:45 Uhr | Präsenztermin**
+
+-   Dieser Termin findet vor Ort statt, ich bin durchgehend anwesend.
+-   Keine Plicht zur Teilnahme an den einzelnen Terminen.
+
+Die aktuellen Raumangaben für die Dienstagstermine entnehmen Sie bitte direkt ILIAS.
+
 ### Skript als Lernhilfe
 
 Das Openbook *Bio Data Science* dient als Skript der Veranstaltung und ist online unter <https://jkruppa.github.io/> verfügbar. Dort finden Sie ergänzend weiterführende Informationen zu R, Excel und der Datenauswertung. *Für die Klausur sind jedoch primär die Inhalte der Veranstaltungsmitschriften relevant.* Beachten Sie die Veranstaltungsmitschriften daher besonders.
