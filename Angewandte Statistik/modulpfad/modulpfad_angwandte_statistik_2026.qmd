@@ -68,16 +68,16 @@ Nachfolgend finden Sie eine Übersicht der Modulinhalte. Die Weblinks führen Si
 
 |   | Datum | Dozent | Schwerpunkt |
 |---|---------|------------|------------------------------------|
-| \[1.\] | xx.xx.2026 | Kruppa-Scheetz | Organisation / Vorstellung / Gummibärchen |
-| \[2.\] | xx.xx.2026 | Kruppa-Scheetz | Was ist Wissenschaft? / Was sind Daten? |
-| \[3.\] | xx.xx.2026 | Kruppa-Scheetz | Einführung Programmieren in R |
-| \[4.\] | xx.xx.2026 | Kruppa-Scheetz | Grundlagen des statistischen Testens |
-| \[5.\] | xx.xx.2026 | Kruppa-Scheetz | Besprechung Ihrer Datensätze für die Hausarbeit. Welche Fragen und Probleme treten auf? Wo brauchen Sie Hilfe? |
-| \[6.\] | xx.xx.2026 | Kruppa-Scheetz | Faktorielle Experimente mit t-Test und ANOVA |
-| \[7.\] | xx.xx.2026 | Kruppa-Scheetz | Kovariate Experimente mit der linearen Regression |
-| \[8.\] | xx.xx.2026 | Kruppa-Scheetz | Gemischte Modelle für Messwiederholungen |
-| \[9.\] | xx.xx.2026 | Kruppa-Scheetz | Vorhersagen aus prädiktiven Modellen |
-| \[10.\] | xx.xx.2026 | Kruppa-Scheetz | Präsentation der Hausarbeit |
+| \[1.\] | 24.09.2026 | Kruppa-Scheetz | Organisation / Vorstellung / Gummibärchen |
+| \[2.\] | 01.10.2026 | Kruppa-Scheetz | Was ist Wissenschaft? / Was sind Daten? |
+| \[3.\] | 08.10.2026 | Kruppa-Scheetz | Einführung Programmieren in R |
+| \[4.\] | 15.10.2026 | Kruppa-Scheetz | Grundlagen des statistischen Testens |
+| \[5.\] | 22.10.2026 | Kruppa-Scheetz | Besprechung Ihrer Datensätze für die Hausarbeit. Welche Fragen und Probleme treten auf? Wo brauchen Sie Hilfe? |
+| \[6.\] | 05.11.2026 | Kruppa-Scheetz | Faktorielle Experimente mit t-Test und ANOVA |
+| \[7.\] | 12.11.2026 | Kruppa-Scheetz | Kovariate Experimente mit der linearen Regression |
+| \[8.\] | 19.11.2026 | Kruppa-Scheetz | Gemischte Modelle für Messwiederholungen |
+| \[9.\] | 26.11.2026 | Kruppa-Scheetz | Vorhersagen aus prädiktiven Modellen |
+| \[10.\] | 03.12.2026 | Kruppa-Scheetz | Präsentation der Hausarbeit |
 
 : Übersicht der Inhalte des Moduls *"Angewandte Statistik"*. Die Lage der Inhalte kann sich im laufenden Semester verschieben und nach den Bedürfnissen der Teilnehmenden angepasst werden. Bitte beachten Sie die entsprechenden Informationen während der Veranstaltungen. {#tbl-uebersicht}
 
