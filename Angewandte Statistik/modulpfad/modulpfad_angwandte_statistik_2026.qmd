@@ -117,7 +117,54 @@ Für Ihre Hausarbeit gelten folgende Anforderungen:
 3)  Die Datenanalyse ist mit der Software RStudio und R durchzuführen, *kann nach Absprache aber auch in einer anderen Software erfolgen*.
 :::
 
-Im Modul *"Angewandte Statistik"* entwickeln Sie in eigenständig eine individuelle wissenschaftliche Fragestellung. Sie generieren die passenden Daten oder nutzen die bereitgestellten Daten auf ILIAS, führen die statistische Analyse eigenständig in R durch und stellen Ihre Erkenntnisse im Rahmen einer abschließenden Präsentation vor.
+Im Modul *"Statistik"* arbeiten Sie individuell oder in maximal Zweigruppen an einer Hausarbeit, bei dem Sie einen Fragebogen entwickeln. Dieser wird unter anderem von den Teilnehmenden des Moduls ausgefüllt. Bitte beachten Sie, dass die Anzahl meistens nicht ausreicht und Sie noch externe Teilnehmende benötigen. Gehen Sie von ca. 50 beantworteten Fragebögen als hinreichend aus. Die daraus gewonnenen Daten verwenden Sie als Grundlage für Ihre Hausarbeit. Ihre wissenschaftliche Fragestellung erarbeiten Sie eigenständig individuell oder in Ihrer Gruppe.
+
+::: {.callout-note icon="false"}
+## Vorgaben für die Fragen
+
+Achten Sie beim Erstellen Ihres Fragebogens darauf, dass die folgenden Vorgaben erfüllt sind.
+
+1)  **Erste Frage: Dichotome Frage** Mit dieser Frage unterteilen Sie die Teilnehmenden in zwei Gruppen. Hier ist nur eine Ja/Nein-Antwort möglich.
+
+*Beispiel: "Haben Sie bereits Erfahrung mit statistischer Datenauswertung?"*
+
+2.  **Zweite Frage: Kontinuierliche Frage** Diese Frage sollte eine kontinuierliche Antwort ermöglichen, also eine Antwort, die jeden beliebigen Wert in einem bestimmten Bereich annehmen kann.
+
+*Beispiel: "Wie viele Stunden pro Woche verbringen Sie durchschnittlich mit der Vorbereitung auf das Statistik-Modul?"*
+
+3.  **Dritte Frage: Kategoriale Frage mit drei Optionen** Diese Frage hat eine kategoriale Antwort mit drei festen Auswahlmöglichkeiten.
+
+*Beispiel: "Welche Vorkenntnisse in Statistik bringen Sie mit?"*
+
+*( ) Keine*
+
+*( ) Geringe*
+
+*( ) Umfangreiche*
+
+4.  **Vierte Frage: Kategoriale Frage mit fünf Optionen** Diese Frage hat eine kategoriale Antwort mit fünf festen Auswahlmöglichkeiten.
+
+*Beispiel: "Wie bewerten Sie die bisherige Qualität der Vorlesung?"*
+
+*( ) Sehr schlecht*
+
+*( ) Schlecht*
+
+*( ) Mittelmäßig*
+
+*( ) Gut*
+
+*( ) Sehr gut*
+
+5.  **Fünfte Frage: Kategoriale Frage mit zwei Optionen** Diese Frage hat eine kategoriale Antwort mit zwei festen Auswahlmöglichkeiten.
+
+*Beispiel: "Nehmen Sie regelmäßig an den Tutorien teil?"*
+
+*( ) Ja*
+
+*( ) Nein*
+
+:::
 
 Ihre Hausarbeit wird nach folgenden Kriterien bewertet:
 
