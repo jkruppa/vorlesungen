@@ -1,0 +1,70 @@
+---
+title: "Test"
+format: html
+editor: visual
+---
+
+```{r}
+pacman::p_load(tidyverse, readxl, writexl, conflicted)
+```
+
+## Short data set
+
+```{r}
+jumplength_bloodmeal_tbl <- read_excel("~/GitHub/vorlesungen/Allgemeine Daten/covariate/flea_jumplength_bloodmeal_raw.xlsx", 
+                                       range = "A1:E15")
+
+jumplength_bloodmeal_tbl |> 
+  sample_frac() |> 
+  mutate(fid = 1:14,
+         bodyweight = round(bodyweight, 1)) |> 
+  select(-satisfaction) |> 
+  write_xlsx("~/GitHub/vorlesungen/Allgemeine Daten/covariate/flea_jumplength_bloodmeal_n14.xlsx")
+```
+
+```{r}
+#| echo: true
+#| message: false
+#| warning: false
+#| label: fig-jumplength-bloodmeal-n14
+#| fig-align: center
+#| fig-height: 3.5
+#| fig-width: 6
+#| fig-cap: "foo*"
+
+jumplength_bloodmeal_tbl |> 
+  ggplot(aes(x = bloodmeal, y = jumplength)) +
+  theme_minimal() +
+  geom_point()
+```
+
+
+## Long data set
+
+```{r}
+jumplength_bloodmeal_tbl <- read_excel("~/GitHub/vorlesungen/Allgemeine Daten/covariate/flea_jumplength_bloodmeal_raw.xlsx", 
+                                       range = "A1:E22")
+
+jumplength_bloodmeal_tbl |> 
+  sample_frac() |> 
+  mutate(fid = 1:21,
+         bodyweight = round(bodyweight, 1)) |> 
+  select(-satisfaction) |> 
+  write_xlsx("~/GitHub/vorlesungen/Allgemeine Daten/covariate/flea_jumplength_bloodmeal_n21.xlsx")
+```
+
+```{r}
+#| echo: true
+#| message: false
+#| warning: false
+#| label: fig-jumplength-bloodmeal-n21
+#| fig-align: center
+#| fig-height: 3.5
+#| fig-width: 6
+#| fig-cap: "foo*"
+
+jumplength_bloodmeal_tbl |> 
+  ggplot(aes(x = bloodmeal, y = jumplength)) +
+  theme_minimal() +
+  geom_point()
+```
