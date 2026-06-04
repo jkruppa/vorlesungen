@@ -1,7 +1,11 @@
 ---
-title: "Test"
-format: html
-editor: visual
+title: "Generation of covariate data"
+author: "Prof. Dr. Jochen Kruppa-Scheetz"
+format:
+  html:
+    embed-resources: true
+    lang: de
+    theme: journal
 ---
 
 ```{r}
@@ -68,3 +72,10 @@ jumplength_bloodmeal_tbl |>
   theme_minimal() +
   geom_point()
 ```
+
+Limits would be
+
+- [0-4] Hungry
+- [4-8] Full
+- [8-12] Overeat
+
