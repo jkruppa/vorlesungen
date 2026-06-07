@@ -1,7 +1,5 @@
 # Veranstaltung 03 - Herodot der Schimmel von Ivenack
 
--------
-
 > *“Experience is the name everyone gives to their mistakes.” — Oscar Wilde*
 
 ## Inhalte

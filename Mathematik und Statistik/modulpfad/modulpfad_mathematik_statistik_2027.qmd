@@ -125,6 +125,7 @@ Die Klausurinhalte werden jedes Wintersemester aktualisiert. Aus diesem Grund be
 8) In der Kartonagenfabrik
 9) Ein Pfund Insekten, bitte!
 10) Armee der Kaninchen
+11) Ostfriesland. Unendliche Weiten. 
 
 ##### Mögliche Aufgaben aus dem Statistikteil
 
@@ -137,4 +138,7 @@ Die Klausurinhalte werden jedes Wintersemester aktualisiert. Aus diesem Grund be
 5) Grundgesamtheit und experimentelle Stichprobe
 6) Visualisierung der Teststatistik und dem p-Wert
 7) Berechnung des Student t-Test oder Welch t-Test
+8) Visualisierung der einfaktoriellen ANOVA
+9) Ergebnistabelle der einfaktoriellen ANOVA 
+10) Die einfaktorielle ANOVA in R
 

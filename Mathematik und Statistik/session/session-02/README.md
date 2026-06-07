@@ -1,7 +1,5 @@
 # Veranstaltung 02 - Was ist Wissenschaft und Einführung in R
 
-------
-
 > *“In der Wissenschaft beginnt alles Neue damit, dass jemand brummt ‘Hmmm… ist ja komisch.’” — Isaac Asimov*
 
 ## Inhalte
