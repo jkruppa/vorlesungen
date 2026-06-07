@@ -1,8 +1,8 @@
 # Übersicht
 
-> "**Plans are worthless, but planning is everything"** - Dwight D. Eisenhower
+> *"Plans are worthless, but planning is everything" - Dwight D. Eisenhower*
 
-Im Folgenden einmal eine Übersicht der Inhalte der Vorlesung "Mathematik & Statistik". Es ist eher der Plan, der dann nciht funktioniert.
+Im Folgenden einmal eine Übersicht der Inhalte der Vorlesung "Mathematik & Statistik". Es ist eher der Plan, der dann nicht funktioniert. Es kommt ja immer mal wieder was dazwischen oder es dauert dann eben doch länger.
 
 | Session | Inhalt                                                       |
 | ------- | ------------------------------------------------------------ |
