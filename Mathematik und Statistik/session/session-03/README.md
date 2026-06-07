@@ -9,3 +9,7 @@
 3) Was ist das Besondere von Herodot? Warum war das Pferd so besondern?
 4) Wenn wir schon beim Reiten sind, was ist das Besondere bei der Tätigkeit "Reiten" und der Tätigkeit "Programmieren"?
 
+## Referenzen
+
+- Bowman, D. M., Brienen, R. J., Gloor, E., Phillips, O. L., & Prior, L. D. (2013). Detecting trends in tree growth: not so simple. *Trends in plant science*, *18*(1), 11-17.
+
