@@ -1,4 +1,9 @@
 # Übersicht
+
+> "**Plans are worthless, but planning is everything"** - Dwight D. Eisenhower
+
+Im Folgenden einmal eine Übersicht der Inhalte der Vorlesung "Mathematik & Statistik". Es ist eher der Plan, der dann nciht funktioniert.
+
 | Session | Inhalt                                                       |
 | ------- | ------------------------------------------------------------ |
 | 01      | Fragestunde und Organisation zu der Veranstaltung. Studiengangskoordinatoren sind mit dabei und ermöglichen Fragen und Antworten zum Studienverlauf. |
