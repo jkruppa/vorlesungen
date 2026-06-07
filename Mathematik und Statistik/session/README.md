@@ -19,7 +19,7 @@ Im Folgenden einmal eine Übersicht der Inhalte der Vorlesung "Mathematik & Stat
 | 11      | Ein Pfund Insekten, bitte!                                   |
 | 12      | Armee der Kaninchen                                          |
 | 13      | Ostfriesland. Unendliche Weiten.                             |
-| 14      |                                                              |
+| 14      | **Gummibärchendatensatz erstellen**                          |
 | 15      |                                                              |
 | 16      |                                                              |
 | 17      |                                                              |
