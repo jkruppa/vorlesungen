@@ -75,7 +75,7 @@ Nachfolgend finden Sie eine Übersicht der Modulinhalte. Die Weblinks führen Si
 | \[5.\] | 22.10.2026 | Kruppa-Scheetz | Besprechung Ihrer Datensätze für die Hausarbeit. Welche Fragen und Probleme treten auf? Wo brauchen Sie Hilfe? |
 | \[6.\] | 05.11.2026 | Kruppa-Scheetz | Faktorielle Experimente mit t-Test und ANOVA |
 | \[7.\] | 12.11.2026 | Kruppa-Scheetz | Kovariate Experimente mit der linearen Regression |
-| \[8.\] | 19.11.2026 | Kruppa-Scheetz | Gemischte Modelle für Messwiederholungen |
+| \[8.\] | 19.11.2026 | Kruppa-Scheetz | Besonderheiten des Fragebogens in der Statistik |
 | \[9.\] | 26.11.2026 | Kruppa-Scheetz | Vorhersagen aus prädiktiven Modellen |
 | \[10.\] | 03.12.2026 | Kruppa-Scheetz | Präsentation der Hausarbeit |
 

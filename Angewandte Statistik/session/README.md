@@ -6,31 +6,13 @@ Im Folgenden einmal eine Übersicht der Inhalte der Vorlesung "Mathematik & Stat
 
 | Session | Inhalt                                                       |
 | ------- | ------------------------------------------------------------ |
-| 01      | **Fragestunde und Organisation zu der Veranstaltung.** Studiengangskoordinatoren sind mit dabei und ermöglichen Fragen und Antworten zum Studienverlauf. |
-| 02      | **Was ist Wissenschaft?** Einordnung der Mathematik & Statistik als Werkzeuge der Wissenschaften. **Vorstellung des digitalen Werkzeugs R und Excel.** |
-| 03      | Herodot der Schimmel von Ivenack                             |
-| 04      | Von Töpfen auf Tisch                                         |
-| 05      | Solar- & Biogasanlagen                                       |
-| 06      | ’Entschuldigung, ist das Ihre Feder in meinem Auge?’         |
-| 07      | Pyramiden bauen                                              |
-| 08      | Die atmende Wand und Brot aus Luft                           |
-| 09      | Armee der Finsternis                                         |
-| 10      | In der Kartonagenfabrik                                      |
-| 11      | Ein Pfund Insekten, bitte!                                   |
-| 12      | Armee der Kaninchen                                          |
-| 13      | Ostfriesland. Unendliche Weiten.                             |
-| 14      | **Gummibärchendatensatz erstellen**                          |
-| 15      |                                                              |
-| 16      |                                                              |
-| 17      |                                                              |
-| 18      |                                                              |
-| 19      |                                                              |
-| 20      |                                                              |
-| 21      |                                                              |
-| 22      |                                                              |
-| 23      |                                                              |
-| 24      |                                                              |
-| 25      | Probeklausur                                                 |
-| 26      | Besprechung Probeklausur                                     |
-|         |                                                              |
-
+| 01      | **Fragestunde und Organisation zu der Veranstaltung.**  Gummibärchendatensatz erstellen |
+| 02      | **Was ist Wissenschaft und was sind Daten?** Einordnung der Mathematik & Statistik als Werkzeuge der Wissenschaften. |
+| 03      | **Vorstellung des digitalen Werkzeugs R und Excel.**         |
+| 04      | **Grundlagen des statistischen Testens**                     |
+| 05      | Besprechung Ihrer Datensätze für die Hausarbeit. Welche Fragen und Probleme treten auf? Wo brauchen Sie Hilfe? |
+| 06      | **Faktorielle Experimente** mit t-Test und ANOVA             |
+| 07      | **Kovariate Experimente** mit der linearen Regression        |
+| 08      | Besonderheiten der Analyse eines Fragebogens in der Statistik |
+| 09      | Vorhersagen aus prädiktiven Modellen                         |
+| 10      | Präsentation der Hausarbeit                                  |
