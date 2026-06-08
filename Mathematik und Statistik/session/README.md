@@ -22,15 +22,14 @@ Im Folgenden einmal eine Übersicht der Inhalte der Vorlesung "Mathematik & Stat
 | 14      | **Gummibärchendatensatz erstellen** und Daten erklären       |
 | 15      | Was sind Daten am Beispiel von Sprungweiten von Flöhen       |
 | 16      | **Faktorielles Design** - Deskriptive Statistik mit Mittelwert und Standardabweichung und **Barplot** - Visualisierung des Mittelwerts und der Standardabweichung |
-| 17      | **Faktorielles Design**Deskriptive Statistik mit Median und Quartile und **Boxplot** - Visualisierung des Medians und Quartile |
-| 18      | **Kovariates Design** - Visualisierung zweier Kovariaten in einem **Scatterplot**. |
-| 19      |                                                              |
-| 20      |                                                              |
+| 17      | **Faktorielles Design ** Deskriptive Statistik mit Median und Quartile und **Boxplot** - Visualisierung des Medians und Quartile |
+| 18      | **Faktorielle Experimente** mit t-Test und ANOVA             |
+| 19      | **Faktorielle Experimente** mit der einfaktoriellen ANOVA    |
+| 20      | **Kovariates Design** - Visualisierung zweier Kovariaten in einem **Scatterplot**. |
 | 21      |                                                              |
 | 22      |                                                              |
-| 23      |                                                              |
-| 24      |                                                              |
+| 23      | *[Puffertermin für Krankheit oder externe Veranstaltungen]*  |
+| 24      | *[Puffertermin für Krankheit oder externe Veranstaltungen]*  |
 | 25      | Probeklausur                                                 |
 | 26      | Besprechung Probeklausur                                     |
-|         |                                                              |
 
