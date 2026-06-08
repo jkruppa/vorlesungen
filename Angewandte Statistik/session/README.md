@@ -9,10 +9,10 @@ Im Folgenden einmal eine Übersicht der Inhalte der Vorlesung "Mathematik & Stat
 | 01      | **Fragestunde und Organisation zu der Veranstaltung.**  Gummibärchendatensatz erstellen |
 | 02      | **Was ist Wissenschaft und was sind Daten?** Einordnung der Mathematik & Statistik als Werkzeuge der Wissenschaften. |
 | 03      | **Vorstellung des digitalen Werkzeugs R und Excel.**         |
-| 04      | **Grundlagen des statistischen Testens**                     |
-| 05      | Besprechung Ihrer Datensätze für die Hausarbeit. Welche Fragen und Probleme treten auf? Wo brauchen Sie Hilfe? |
-| 06      | **Faktorielle Experimente** mit t-Test und ANOVA             |
-| 07      | **Kovariate Experimente** mit der linearen Regression        |
-| 08      | Besonderheiten der Analyse eines Fragebogens in der Statistik |
-| 09      | Vorhersagen aus prädiktiven Modellen                         |
+| 04      | **Grundlagen des statistischen Testens** an der Teststatistik für den t-Test |
+| 05      | **Faktorielle Experimente** mit t-Test und ANOVA             |
+| 06      | **Visualisierung von kategorialen Daten** in R               |
+| 07      | Der **Chi-Quadrat-Test** für kategoriale Daten               |
+| 08      | *[Puffertermin für Krankheit oder externe Veranstaltungen]*  |
+| 09      | **Kovariate Experimente** mit der linearen Regression        |
 | 10      | Präsentation der Hausarbeit                                  |
