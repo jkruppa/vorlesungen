@@ -19,11 +19,11 @@ Im Folgenden einmal eine Übersicht der Inhalte der Vorlesung "Mathematik & Stat
 | 11      | Ein Pfund Insekten, bitte!                                   |
 | 12      | Armee der Kaninchen                                          |
 | 13      | Ostfriesland. Unendliche Weiten.                             |
-| 14      | **Gummibärchendatensatz erstellen**                          |
-| 15      |                                                              |
-| 16      |                                                              |
-| 17      |                                                              |
-| 18      |                                                              |
+| 14      | **Gummibärchendatensatz erstellen** und Daten erklären       |
+| 15      | Was sind Daten am Beispiel von Sprungweiten von Flöhen       |
+| 16      | **Faktorielles Design** - Deskriptive Statistik mit Mittelwert und Standardabweichung und **Barplot** - Visualisierung des Mittelwerts und der Standardabweichung |
+| 17      | **Faktorielles Design**Deskriptive Statistik mit Median und Quartile und **Boxplot** - Visualisierung des Medians und Quartile |
+| 18      | **Kovariates Design** - Visualisierung zweier Kovariaten in einem **Scatterplot**. |
 | 19      |                                                              |
 | 20      |                                                              |
 | 21      |                                                              |
