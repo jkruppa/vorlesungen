@@ -5,7 +5,7 @@
 | 03      | **Herodot der Schimmel von Ivenack** Pferde und Kot in New York als Großstadtlegende (eng. *urban myth*) |                        | *AnAge Database* |
 | 04      | **Von Töpfen auf Tisch** Fotos von der Landwirtschaftkammer und die Erklärungen warum wir etwas planen müssen. |                        |                  |
 | 05      | **Solar- & Biogasanlagen**                                   |                        |                  |
-| 06      | **’Entschuldigung, ist das Ihre Feder in meinem Auge?’** Vorstellung des Papers *Welfare of broilers on farm* und wie dort reguliert wird. Was gibt es eigentlich für Stufen in der Wissenschaft und wer macht hier eigentlich was? Auswirkungen auf den Landwirt durch Regeln und wo die Regeln herkommen. | EFSA AHAW Panel (2023) |                  |
+| 06      | **’Entschuldigung, ist das Ihre Feder in meinem Auge?** Vorstellung des Papers *Welfare of broilers on farm* und wie dort reguliert wird. Was gibt es eigentlich für Stufen in der Wissenschaft und wer macht hier eigentlich was? Auswirkungen auf den Landwirt durch Regeln und wo die Regeln herkommen. | EFSA AHAW Panel (2023) |                  |
 | 07      | **Pyramiden bauen** mit Erich von Däniken und den Pyramiden von Meroe |                        |                  |
 | 08      | **Die atmende Wand und Brot aus Luft** Das Haber-Bosch-Verfahren und Spanisch-Südamerikanischer Krieg um Guano |                        |                  |
 | 09      | **Armee der Finsternis** und der Schrotkugelturm             |                        |                  |
