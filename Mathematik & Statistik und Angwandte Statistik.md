@@ -6,12 +6,12 @@
 | 04      | **Von Töpfen auf Tisch** Fotos von der Landwirtschaftkammer und die Erklärungen warum wir etwas planen müssen. |                        |                  |
 | 05      | **Solar- & Biogasanlagen**                                   |                        |                  |
 | 06      | **’Entschuldigung, ist das Ihre Feder in meinem Auge?’** Vorstellung des Papers *Welfare of broilers on farm* und wie dort reguliert wird. Was gibt es eigentlich für Stufen in der Wissenschaft und wer macht hier eigentlich was? Auswirkungen auf den Landwirt durch Regeln und wo die Regeln herkommen. | EFSA AHAW Panel (2023) |                  |
-| 07      | **Pyramiden bauen**                                          |                        |                  |
+| 07      | **Pyramiden bauen** mit Erich von Däniken und den Pyramiden von Meroe |                        |                  |
 | 08      | **Die atmende Wand und Brot aus Luft** Das Haber-Bosch-Verfahren und Spanisch-Südamerikanischer Krieg um Guano |                        |                  |
-| 09      | **Armee der Finsternis**                                     |                        |                  |
+| 09      | **Armee der Finsternis** und der Schrotkugelturm             |                        |                  |
 | 10      | **In der Kartonagenfabrik** und das Simpsons Video dazu      |                        |                  |
-| 11      | **Ein Pfund Insekten, bitte!**                               |                        |                  |
-| 12      | **Armee der Kaninchen** Der Zaun um die Hasen einzuhegen udn auch Katzen in Australien als Beispiel. Beispiele zu Krankeiten wie Bakterien und Viren im Allgemeinen. |                        |                  |
+| 11      | **Ein Pfund Insekten, bitte!** und der Bevölkerungswachstum sowie die klimafreundliche Bereitstellung von Protein. |                        |                  |
+| 12      | **Armee der Kaninchen** Der Zaun um die Hasen einzuhegen und auch Katzen in Australien als Beispiel. Beispiele zu Krankeiten wie Bakterien und Viren im Allgemeinen. |                        |                  |
 | 13      | **Ostfriesland. Unendliche Weiten.**                         |                        |                  |
 | 14      | **Gummibärchendatensatz erstellen** und Daten erklären       |                        |                  |
 | 15      | Was sind Daten am Beispiel von Sprungweiten von Flöhen am Beispiel von Cadiergues et al. (2000) als wissenschaftliche Arbeit. **Was ist eine wissenschaftliche Arbeit?** |                        |                  |
