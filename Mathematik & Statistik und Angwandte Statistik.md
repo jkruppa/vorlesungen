@@ -17,10 +17,10 @@
 | 15      | **Was ist eine wissenschaftliche Arbeit?** Was sind Daten am Beispiel von Sprungweiten von Flöhen am Beispiel von Cadiergues et al. (2000) als wissenschaftliche Arbeit. | Cadiergues et al. (2000) |                  |
 | 16      | **Faktorielles Design I** - Deskriptive Statistik mit Mittelwert und Standardabweichung und **Barplot** - Visualisierung des Mittelwerts und der Standardabweichung | Gallup et al. (2016)     |                  |
 | 17      | **Faktorielles Design II** Deskriptive Statistik mit Median und Quartile und **Boxplot** - Visualisierung des Medians und Quartile | Kojima et al. (2019)     |                  |
-| 18      | **Grundlagen des statistischen Testens** an der Teststatistik für den t-Test |                          |                  |
-| 19      | **Grundlagen des statistischen Testens** mit dem p-Wert und dem *Compact letter display* |                          |                  |
-| 20      | **Faktorielle Experimente** mit t-Test und ANOVA             |                          |                  |
-| 21      | **Faktorielle Experimente** mit der einfaktoriellen ANOVA    |                          |                  |
+| 18      | **Grundlagen des statistischen Testens I** mit der Teststatistik für den t-Test |                          |                  |
+| 19      | **Grundlagen des statistischen Testens II** mit dem p-Wert und dem *Compact letter display* |                          |                  |
+| 20      | **Faktorielle Experimente mit t-Test und ANOVA**             |                          |                  |
+| 21      | **Faktorielle Experimente mit der einfaktoriellen ANOVA**    |                          |                  |
 | 22      | **Kovariates Design** - Visualisierung zweier Kovariaten in einem **Scatterplot**. |                          |                  |
 | 23      | *[Puffertermin für Krankheit oder externe Veranstaltungen]*  |                          |                  |
 | 24      | *[Puffertermin für Krankheit oder externe Veranstaltungen]*  |                          |                  |
