@@ -1,4 +1,4 @@
-# Veranstaltung 16 - Faktorielles Design I
+# Veranstaltung 17 - Faktorielles Design II
 
 > *“In der Wissenschaft beginnt alles Neue damit, dass jemand brummt ‘Hmmm… ist ja komisch.’” — Isaac Asimov*
 
@@ -6,7 +6,7 @@
 
 ## Paper der Veranstaltung
 
-Gallup et al. (2016) Yawn duration predicts brain weight and cortical neuron number in mammals
+Kojima et al. (2019) Cows painted with zebra-like striping can avoid biting fly attack
 
 ## Inhalte
 
