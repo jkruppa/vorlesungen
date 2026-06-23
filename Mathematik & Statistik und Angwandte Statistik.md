@@ -12,7 +12,7 @@
 | 10      | **In der Kartonagenfabrik** und das Simpsons Video dazu      |                          |                  |
 | 11      | **Ein Pfund Insekten, bitte!** und der Bevölkerungswachstum sowie die klimafreundliche Bereitstellung von Protein. |                          |                  |
 | 12      | **Armee der Kaninchen** Der Zaun um die Hasen einzuhegen und auch Katzen in Australien als Beispiel. Beispiele zu Krankeiten wie Bakterien und Viren im Allgemeinen. |                          |                  |
-| 13      | **Ostfriesland. Unendliche Weiten.**                         |                          |                  |
+| 13      | **Ostfriesland. Unendliche Weiten.** Star Trek und Data. Was ist Commander Data? Auf der Suche nach Emotionen. Warum ist es wichtig Emotionen zu haben um Mensch zu sein? [The psychology of playing safe](https://www.youtube.com/watch?v=RrOGQD4Z9A4) |                          |                  |
 | 14      | **Gummibärchendatensatz erstellen** und Daten erklären. Soziale Besonderheiten des Mannes von 180cm. |                          |                  |
 | 15      | **Was ist eine wissenschaftliche Arbeit?** Was sind Daten am Beispiel von Sprungweiten von Flöhen am Beispiel von Cadiergues et al. (2000) als wissenschaftliche Arbeit. | Cadiergues et al. (2000) |                  |
 | 16      | **Faktorielles Design I** - Deskriptive Statistik mit Mittelwert und Standardabweichung und **Barplot** - Visualisierung des Mittelwerts und der Standardabweichung | Gallup et al. (2016)     |                  |
