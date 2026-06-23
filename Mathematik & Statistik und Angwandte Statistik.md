@@ -1,5 +1,5 @@
 | Session | Inhalt                                                       | Paper                    | Daten            |
-| ------- | ------------------------------------------------------------ | ------------------------ | ---------------- |
+| ------- | :----------------------------------------------------------- | ------------------------ | ---------------- |
 | 01      | **Fragestunde und Organisation zu der Veranstaltung.** Studiengangskoordinatoren sind mit dabei und ermöglichen Fragen und Antworten zum Studienverlauf. |                          |                  |
 | 02      | **Was ist Wissenschaft?** Einordnung der Mathematik & Statistik als Werkzeuge der Wissenschaften. **Vorstellung des digitalen Werkzeugs R und Excel.** Programmieren und Frauen |                          |                  |
 | 03      | **Herodot der Schimmel von Ivenack** Pferde und Kot in New York als Großstadtlegende (eng. *urban myth*) |                          | *AnAge Database* |
@@ -24,12 +24,12 @@
 | 22      | *[Puffertermin für Krankheit oder externe Veranstaltungen]*  |                          |                  |
 | 23      | *[Puffertermin für Krankheit oder externe Veranstaltungen]*  |                          |                  |
 | 24      | *[Puffertermin für Krankheit oder externe Veranstaltungen]*  |                          |                  |
-| 25      | Probeklausur                                                 |                          |                  |
-| 26      | Besprechung Probeklausur                                     |                          |                  |
-| 01      | Wiederholung und Vertiefung: Daten & Wissenschaft / Organisation der Hausarbeit in R. | Feeding flea paper       |                  |
+| 25      | **Probeklausur**                                             |                          |                  |
+| 26      | **Besprechung Probeklausur**                                 |                          |                  |
+| 01      | Wiederholung und Vertiefung: Daten & Wissenschaft / Organisation der Hausarbeit in R. |                          |                  |
 | 02      | Vorstellung von Excel und R als digitale Werkzeuge           |                          |                  |
 | 03      | Modelle, Mythen und Metaphern der Wissenschaft am Beispiel des Sonnensystems |                          |                  |
-| 04      |                                                              |                          |                  |
+| 04      | **Kovariates Design** - Visualisierung zweier Kovariaten in einem **Scatterplot**. | Miarinjara et al. (2025) |                  |
 | 05      |                                                              |                          |                  |
 | 06      |                                                              |                          |                  |
 | 07      |                                                              |                          |                  |
