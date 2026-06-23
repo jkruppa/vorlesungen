@@ -1,4 +1,4 @@
-# Veranstaltung 17 - Faktorielles Design II
+# Veranstaltung 17 - Grundlagen des statistischen Testens I
 
 > *“In der Wissenschaft beginnt alles Neue damit, dass jemand brummt ‘Hmmm… ist ja komisch.’” — Isaac Asimov*
 

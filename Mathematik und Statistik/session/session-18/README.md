@@ -1,4 +1,4 @@
-# Veranstaltung 18 - Grundlagen des statistischen Testens I
+# Veranstaltung 18 - Grundlagen des statistischen Testens II
 
 > *“In der Wissenschaft beginnt alles Neue damit, dass jemand brummt ‘Hmmm… ist ja komisch.’” — Isaac Asimov*
 

@@ -15,13 +15,13 @@
 | 13      | **Ostfriesland. Unendliche Weiten.** Star Trek und Data. Was ist Commander Data? Auf der Suche nach Emotionen. Warum ist es wichtig Emotionen zu haben um Mensch zu sein? [The psychology of playing safe](https://www.youtube.com/watch?v=RrOGQD4Z9A4) |                          |                  |
 | 14      | **Gummibärchendatensatz erstellen** und Daten erklären. Soziale Besonderheiten des Mannes von 180cm. |                          |                  |
 | 15      | **Was ist eine wissenschaftliche Arbeit?** Was sind Daten am Beispiel von Sprungweiten von Flöhen am Beispiel von Cadiergues et al. (2000) als wissenschaftliche Arbeit. | Cadiergues et al. (2000) |                  |
-| 16      | **Faktorielles Design I** - Deskriptive Statistik mit Mittelwert und Standardabweichung und **Barplot** - Visualisierung des Mittelwerts und der Standardabweichung | Gallup et al. (2016)     |                  |
-| 17      | **Faktorielles Design II** Deskriptive Statistik mit Median und Quartile und **Boxplot** - Visualisierung des Medians und Quartile | Kojima et al. (2019)     |                  |
-| 18      | **Grundlagen des statistischen Testens I** mit der Teststatistik für den t-Test |                          |                  |
-| 19      | **Grundlagen des statistischen Testens II** mit dem p-Wert und dem *Compact letter display* |                          |                  |
-| 20      | **Faktorielle Experimente mit t-Test und ANOVA**             |                          |                  |
-| 21      | **Faktorielle Experimente mit der einfaktoriellen ANOVA**    |                          |                  |
-| 22      | **Kovariates Design** - Visualisierung zweier Kovariaten in einem **Scatterplot**. |                          |                  |
+| 16      | **Faktorielles Design I** - Deskriptive Statistik mit Mittelwert und Standardabweichung und **Barplot** - Visualisierung des Mittelwerts und der Standardabweichung. Deskriptive Statistik mit Median und Quartile und **Boxplot** - Visualisierung des Medians und Quartile | Gallup et al. (2016)     |                  |
+| 17      | **Grundlagen des statistischen Testens I** mit der Teststatistik für den t-Test | Kojima et al. (2019)     |                  |
+| 18      | **Grundlagen des statistischen Testens II** mit dem p-Wert und dem *Compact letter display* |                          |                  |
+| 19      | **Faktorielle Experimente mit t-Test und ANOVA**             |                          |                  |
+| 20      | **Faktorielle Experimente mit der einfaktoriellen ANOVA**    |                          |                  |
+| 21      | **Kovariates Design** - Visualisierung zweier Kovariaten in einem **Scatterplot**. |                          |                  |
+| 22      | *[Puffertermin für Krankheit oder externe Veranstaltungen]*  |                          |                  |
 | 23      | *[Puffertermin für Krankheit oder externe Veranstaltungen]*  |                          |                  |
 | 24      | *[Puffertermin für Krankheit oder externe Veranstaltungen]*  |                          |                  |
 | 25      | Probeklausur                                                 |                          |                  |

@@ -1,4 +1,4 @@
-# Veranstaltung 22 - Kovariates Design
+# Veranstaltung 22 - Puffertermin
 
 > *“In der Wissenschaft beginnt alles Neue damit, dass jemand brummt ‘Hmmm… ist ja komisch.’” — Isaac Asimov*
 

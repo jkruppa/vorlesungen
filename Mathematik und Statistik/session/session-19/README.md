@@ -1,4 +1,4 @@
-# Veranstaltung 19 - Grundlagen des statistischen Testens II
+# Veranstaltung 19 - **Faktorielle Experimente mit t-Test und ANOVA**
 
 > *“In der Wissenschaft beginnt alles Neue damit, dass jemand brummt ‘Hmmm… ist ja komisch.’” — Isaac Asimov*
 

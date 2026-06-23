@@ -1,4 +1,4 @@
-# Veranstaltung 16 - Faktorielles Design I
+# Veranstaltung 16 - Faktorielles Design 
 
 > *“In der Wissenschaft beginnt alles Neue damit, dass jemand brummt ‘Hmmm… ist ja komisch.’” — Isaac Asimov*
 
