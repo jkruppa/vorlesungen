@@ -32,11 +32,11 @@
 | 04      | **Kovariates Design** - Visualisierung zweier Kovariaten in einem **Scatterplot**. | Miarinjara et al. (2025) |                  |
 | 05      | **Faktorielle Experimente mit t-Test und einfaktorieller ANOVA** | White et al. (2022)      |                  |
 | 06      | **Zweifaktorielle ANOVA**                                    | Brust et al. (2011)      |                  |
-| 07      |                                                              |                          |                  |
-| 08      |                                                              |                          |                  |
-| 09      |                                                              |                          |                  |
-| 10      |                                                              |                          |                  |
-| 11      |                                                              |                          |                  |
+| 07      | **95% Konfidenzintervall**                                   |                          |                  |
+| 08      | **Grundlagen des statistischen Testens I** mit der Teststatistik für den t-Test |                          |                  |
+| 09      | **Grundlagen des statistischen Testens II** mit dem p-Wert und dem *Compact letter display* |                          |                  |
+| 10      | **Einfluss von Effekt, Standardabweichung und Fallzahl**     |                          |                  |
+| 11      | **Transformation von X**                                     | Yang (2014)              |                  |
 | 12      |                                                              |                          |                  |
 | 13      |                                                              |                          |                  |
 | 14      |                                                              |                          |                  |
