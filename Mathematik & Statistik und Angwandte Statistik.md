@@ -2,7 +2,7 @@
 | ------- | :----------------------------------------------------------- | ------------------------ | ---------------- |
 | 01      | **Fragestunde und Organisation zu der Veranstaltung.** Studiengangskoordinatoren sind mit dabei und ermöglichen Fragen und Antworten zum Studienverlauf. |                          |                  |
 | 02      | **Was ist Wissenschaft?** Einordnung der Mathematik & Statistik als Werkzeuge der Wissenschaften. **Vorstellung des digitalen Werkzeugs R und Excel.** Programmieren und Frauen |                          |                  |
-| 03      | **Herodot der Schimmel von Ivenack** Pferde und Kot in New York als Großstadtlegende (eng. *urban myth*) |                          | *AnAge Database* |
+| 03      | **Herodot der Schimmel von Ivenack** Pferde und Kot in New York als Großstadtlegende (eng. *urban myth*) | Bowman et al. (2012)     | *AnAge Database* |
 | 04      | **Von Töpfen auf Tisch** Fotos von der Landwirtschaftkammer und die Erklärungen warum wir etwas planen müssen. |                          |                  |
 | 05      | **Solar- & Biogasanlagen**                                   |                          |                  |
 | 06      | **’Entschuldigung, ist das Ihre Feder in meinem Auge?** Vorstellung des Papers *Welfare of broilers on farm* und wie dort reguliert wird. Was gibt es eigentlich für Stufen in der Wissenschaft und wer macht hier eigentlich was? Auswirkungen auf den Landwirt durch Regeln und wo die Regeln herkommen. | EFSA AHAW Panel (2023)   |                  |
@@ -30,8 +30,8 @@
 | 02      | Vorstellung von Excel und R als digitale Werkzeuge           |                          |                  |
 | 03      | Modelle, Mythen und Metaphern der Wissenschaft am Beispiel des Sonnensystems |                          |                  |
 | 04      | **Kovariates Design** - Visualisierung zweier Kovariaten in einem **Scatterplot**. | Miarinjara et al. (2025) |                  |
-| 05      |                                                              |                          |                  |
-| 06      |                                                              |                          |                  |
+| 05      | **Faktorielle Experimente mit t-Test und einfaktorieller ANOVA** | White et al. (2022)      |                  |
+| 06      | **Zweifaktorielle ANOVA**                                    | Brust et al. (2011)      |                  |
 | 07      |                                                              |                          |                  |
 | 08      |                                                              |                          |                  |
 | 09      |                                                              |                          |                  |
