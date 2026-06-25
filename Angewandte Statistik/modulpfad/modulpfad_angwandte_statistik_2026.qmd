@@ -2,7 +2,7 @@
 title: "Modulpfad Angewandte Statistik"
 subtitle: "Der folgende Pfad strukturiert das Modul und dient Ihnen als Leitfaden zur besseren Orientierung."
 author: "Jochen Kruppa-Scheetz"
-date: "16. February 2027"
+date: "13. September 2026"
 format:
   html:
     embed-resources: true

@@ -80,7 +80,7 @@ Auf ILIAS finden Sie eine PDF-Datei mit allen potenziellen Klausurfragen des Mod
 **Die schriftliche Klausur gliedert sich in:**
 
 -   *Multiple-Choice-Teil:* 10 Aufgaben (5 Antwortmöglichkeiten pro Frage, davon 1 richtig). Falsche Antworten führen zu keinem Punktabzug.
--   *Text- und Rechenteil:* 6 Aufgaben.
+-   *Text- und Rechenteil:* 5 Aufgaben.
 
 **Erlaubte Hilfsmittel:**
 
@@ -94,29 +94,28 @@ Auf ILIAS finden Sie eine PDF-Datei mit allen potenziellen Klausurfragen des Mod
 
 Die Klausurinhalte werden jedes Sommersemester aktualisiert. Aus diesem Grund beziehen sich die hier bereitgestellten Aufgaben ausschließlich auf die Hauptklausur des Sommersemesters und die Nachklausur des darauffolgenden Wintersemesters. Für Wiederholungsprüfungen in folgenden Jahren ist es entscheidend, den jeweils aktuellen Stoff zu beachten.
 
-*Es werden sechs der folgenden Statistikaufgaben in der Klausur drankommen.*
+*Es werden fünf der folgenden Statistikaufgaben in der Klausur drankommen.*
 
 1)  Zerforschen des Barplots
 2)  Visualisierung des Barplots
 3)  Zerforschen des Boxplots
 4)  Visualisierung des Boxplots
 5)  Visualisierung des Scatterplots
-6)  Visualisierung von Verteilungen
-7)  Grundgesamtheit und experimentelle Stichprobe
-8)  Das Nullritual - Die statistische Testtheorie
-9)  Visualisierung der Teststatistik und dem p-Wert
-10) Visualisierung des 95% Konfidenzintervalls
-11) Zusammenhang zwischen dem Effekt, der Streuung sowie der Fallzahl
-12) Interpretation des t-Tests in R: Teststatistik und p-Wert
-13) Interpretation des t-Tests in R: das 95% Konfidenzintervall
-14) Interpretation des t-Tests in R: die Visualisierung
-15) Die einfaktoriellen ANOVA und der Student t-Test
-16) Ergebnistabelle der zweifaktoriellen ANOVA
-17) Die zweifaktorielle ANOVA in R
-18) Berechnung des Compact Letter Displays (CLD) anhand von t-Tests
-19) Interpretation der Ergebnisse eines gemischten Modells in R
-20) Fortgeschrittene experimentelle Designs
-21) Zerforschen eines wissenschaftlichen Datensatzes
+6)  Grundgesamtheit und experimentelle Stichprobe
+7)  Das Nullritual - Die statistische Testtheorie
+8)  Visualisierung der Teststatistik und dem p-Wert
+9) Visualisierung des 95% Konfidenzintervalls
+10) Zusammenhang zwischen dem Effekt, der Streuung sowie der Fallzahl
+11) Interpretation des t-Tests in R: Teststatistik und p-Wert
+12) Interpretation des t-Tests in R: das 95% Konfidenzintervall
+13) Interpretation des t-Tests in R: die Visualisierung
+14) Die einfaktoriellen ANOVA und der Student t-Test
+15) Ergebnistabelle der zweifaktoriellen ANOVA
+16) Die zweifaktorielle ANOVA in R
+17) Berechnung des Compact Letter Displays (CLD) anhand von t-Tests
+18) Interpretation der Ergebnisse eines gemischten Modells in R
+19) Fortgeschrittene experimentelle Designs
+20) Zerforschen eines wissenschaftlichen Datensatzes
 
 #### Hausarbeit
 

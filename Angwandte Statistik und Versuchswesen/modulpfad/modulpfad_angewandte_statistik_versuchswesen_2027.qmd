@@ -74,7 +74,7 @@ Auf ILIAS finden Sie eine PDF-Datei mit allen potenziellen Klausurfragen des Mod
 **Die schriftliche Klausur gliedert sich in:**
 
 -   *Multiple-Choice-Teil:* 10 Aufgaben (5 Antwortmöglichkeiten pro Frage, davon 1 richtig). Falsche Antworten führen zu keinem Punktabzug.
--   *Text- und Rechenteil:* 6 Aufgaben. 
+-   *Text- und Rechenteil:* 5 Aufgaben. 
 
 **Erlaubte Hilfsmittel:**
 
@@ -88,14 +88,14 @@ Auf ILIAS finden Sie eine PDF-Datei mit allen potenziellen Klausurfragen des Mod
 
 Die Klausurinhalte werden jedes Sommersemester aktualisiert. Aus diesem Grund beziehen sich die hier bereitgestellten Aufgaben ausschließlich auf die Hauptklausur des ommersemesters und die Nachklausur des darauffolgenden Wintersemesters. Für Wiederholungsprüfungen in folgenden Jahren ist es entscheidend, den jeweils aktuellen Stoff zu beachten.
 
-*Es werden sechs der folgenden Statistikaufgaben in der Klausur drankommen.*
+*Es werden fünf der folgenden Statistikaufgaben in der Klausur drankommen.*
 
 1) Zerforschen des Barplots
 2) Visualisierung des Barplots
 3) Zerforschen des Boxplots
 4) Visualisierung des Boxplots
 5) Visualisierung des Scatterplots
-6) Visualisierung von Verteilungen
+6) Visualisierung des Histogramms
 7) Grundgesamtheit und experimentelle Stichprobe
 8) Visualisierung des 95% Konfidenzintervalls
 9) Zusammenhang zwischen dem Effekt, der Streuung sowie der Fallzahl 

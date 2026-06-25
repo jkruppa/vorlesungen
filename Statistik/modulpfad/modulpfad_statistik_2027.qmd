@@ -2,7 +2,7 @@
 title: "Modulpfad Statistik"
 subtitle: "Der folgende Pfad strukturiert das Modul und dient Ihnen als Leitfaden zur besseren Orientierung."
 author: "Jochen Kruppa-Scheetz"
-date: "08. Dezember 2025"
+date: "13. September 2026"
 format:
   html:
     embed-resources: true
@@ -87,7 +87,7 @@ Auf ILIAS finden Sie eine PDF-Datei mit allen potenziellen Klausurfragen des Mod
 **Die schriftliche Klausur gliedert sich in:**
 
 -   *Multiple-Choice-Teil:* 10 Aufgaben (5 Antwortmöglichkeiten pro Frage, davon 1 richtig). Falsche Antworten führen zu keinem Punktabzug.
--   *Text- und Rechenteil:* 6 Aufgaben. 
+-   *Text- und Rechenteil:* 5 Aufgaben. 
 
 **Erlaubte Hilfsmittel:**
 
@@ -101,7 +101,7 @@ Auf ILIAS finden Sie eine PDF-Datei mit allen potenziellen Klausurfragen des Mod
 
 Die Klausurinhalte werden jedes Wintersemester aktualisiert. Aus diesem Grund beziehen sich die hier bereitgestellten Aufgaben ausschließlich auf die Hauptklausur des Wintersemesters und die Nachklausur des darauffolgenden Sommersemesters. Für Wiederholungsprüfungen in folgenden Jahren ist es entscheidend, den jeweils aktuellen Stoff zu beachten.
 
-*Es werden sechs der folgenden Statistikaufgaben in der Klausur drankommen.*
+*Es werden fünf der folgenden Statistikaufgaben in der Klausur drankommen.*
 
 1) Zerforschen des Barplots
 2) Visualisierung des Barplots 
@@ -116,14 +116,13 @@ Die Klausurinhalte werden jedes Wintersemester aktualisiert. Aus diesem Grund be
 11) Berechnung des Student t-Test 
 12) Interpretation des t-Tests in  R: Teststatistik und p-Wert
 13) Interpretation des t-Tests in  R: die Visualisierung
-14) Berechnung des gepaarten t-Test
-15) nterpretation des gepaarten t-Tests in R
-16) Visualisierung der einfaktoriellen ANOVA
-17) Ergebnistabelle der einfaktoriellen ANOVA
-18) Die einfaktorielle ANOVA in R
-19) Den Chi-Quadrat-Test berechnen 
-20) Den Chi-Quadrat-Test mit Effektmaß berechnen
-21) Den Chi-Quadrat-Test in einem Fragebogen berechnen
+14) Interpretation des gepaarten t-Tests in R
+15) Visualisierung der einfaktoriellen ANOVA
+16) Ergebnistabelle der einfaktoriellen ANOVA
+17) Die einfaktorielle ANOVA in R
+18) Den Chi-Quadrat-Test berechnen 
+19) Den Chi-Quadrat-Test mit Effektmaß berechnen
+20) Den Chi-Quadrat-Test in einem Fragebogen berechnen
 
 #### Hausarbeit
 
