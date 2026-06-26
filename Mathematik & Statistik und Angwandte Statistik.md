@@ -37,10 +37,10 @@
 | 09      | **Grundlagen des statistischen Testens II** mit dem p-Wert und dem *Compact letter display* |                          |                  |
 | 10      | **Einfluss von Effekt, Standardabweichung und Fallzahl**     |                          |                  |
 | 11      | **Transformation von X**                                     | Yang (2014)              |                  |
-| 12      |                                                              |                          |                  |
-| 13      |                                                              |                          |                  |
-| 14      |                                                              |                          |                  |
-| 15      |                                                              |                          |                  |
+| 12      | **Vorstellung von {emmeans}**                                |                          |                  |
+| 13      | **R Programmierung**                                         |                          |                  |
+| 14      | **Pre-Test und Vortest**                                     |                          |                  |
+| 15      | **Experimentelles Design**                                   |                          |                  |
 | 16      |                                                              |                          |                  |
 | 17      |                                                              |                          |                  |
 | 18      |                                                              |                          |                  |
