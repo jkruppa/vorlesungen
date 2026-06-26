@@ -42,8 +42,8 @@
 | 14      | **Pre-Test und Vortest**                                     |                          |                  |
 | 15      | **Experimentelles Design**                                   |                          |                  |
 | 16      | **Korrelation**                                              |                          |                  |
-| 17      |                                                              |                          |                  |
-| 18      |                                                              |                          |                  |
+| 17      | **Grundlagen des Modellierens**                              |                          |                  |
+| 18      | **Statistisches Modellieren**                                |                          |                  |
 | 19      |                                                              |                          |                  |
 | 20      |                                                              |                          |                  |
 | 21      |                                                              |                          |                  |
