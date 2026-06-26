@@ -41,7 +41,7 @@
 | 13      | **R Programmierung**                                         |                          |                  |
 | 14      | **Pre-Test und Vortest**                                     |                          |                  |
 | 15      | **Experimentelles Design**                                   |                          |                  |
-| 16      |                                                              |                          |                  |
+| 16      | **Korrelation**                                              |                          |                  |
 | 17      |                                                              |                          |                  |
 | 18      |                                                              |                          |                  |
 | 19      |                                                              |                          |                  |
