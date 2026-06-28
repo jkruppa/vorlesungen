@@ -53,3 +53,8 @@
 | 25      | Probeklausur                                                 |                          |                  |
 | 26      | Besprechung Probeklausur                                     |                          |                  |
 
+### Weitere Ideen und Beispiel
+
+- Beobachtungsdaten vs. experimentelle Daten
+- Was ist Zeit? Liebe? Sternestaub und die Entstehung von Gold! Trockennasenaffen. Effizeinz des menschlichen Laufens. Warum ist es nachts dunkel? 
+
