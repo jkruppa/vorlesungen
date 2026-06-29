@@ -57,4 +57,6 @@
 
 - Beobachtungsdaten vs. experimentelle Daten
 - Was ist Zeit? Liebe? Sternestaub und die Entstehung von Gold! Trockennasenaffen. Effizeinz des menschlichen Laufens. Warum ist es nachts dunkel? 
+- Welche Begriffe brauchen wir?
+- [Bone Wars](https://de.wikipedia.org/wiki/Bone_Wars)
 
