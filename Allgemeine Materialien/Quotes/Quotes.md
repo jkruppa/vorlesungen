@@ -6,11 +6,13 @@
 
 ## Merksätze
 
-Daten sind in Zahlen gegossene Beobachtungen.
+### Daten sind in Zahlen gegossene Beobachtungen.
 
-In der Wissenschaft basieren Entscheidungen auf Daten.
+### In der Wissenschaft basieren Entscheidungen auf Daten.
 
-Entscheidungen sind immer unendscheidbar, sonst wären sie Mathematik.
+### Entscheidungen sind immer unendscheidbar, sonst wären sie Mathematik.
+
+> „Die Wahrheit ist die Erfindung eines Lügners.“  - [Heinz von Foerster](https://de.wikipedia.org/wiki/Heinz_von_Foerster)
 
 https://www.simon-weber.de/blog/die-grenzen-der-entscheidbarkeit/
 
