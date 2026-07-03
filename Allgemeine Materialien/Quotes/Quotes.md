@@ -32,3 +32,15 @@ Der Unterschied oder auch die Wirkung einer Entscheidung liegt darin, dass sie U
 Positivismus vs. Konstruktivismus
 
 Positivismus und Konstruktivismus sind zwei verschiedene Ansätze in der Philosophie, Wissenschaftstheorie und Erkenntnistheorie.Der Positivismus geht davon aus, dass Wissen durch Erfahrung und Beobachtung der Welt erlangt wird. Positivisten betrachten Wissenschaft als eine objektive, empirische und unvoreingenommene Untersuchung der Natur und der Gesellschaft, die durch die Anwendung von wissenschaftlichen Methoden und Techniken erreicht werden kann. Sie glauben, dass es eine objektive Wahrheit gibt, die durch Experimente und Beobachtungen entdeckt werden kann. Der Konstruktivismus dagegen betont, dass Wissen durch individuelle Erfahrungen und soziale Konstruktionen erworben wird. Konstruktivisten glauben, dass Wissen durch die Interpretation und Verarbeitung von Erfahrungen, Eindrücken und Emotionen entsteht, die individuell und sozial vermittelt sind. Sie betrachten Wissenschaft als eine soziale Konstruktion, die von Menschen geschaffen wird, um die Welt zu verstehen.
+
+## Offene Quellen und Ideen
+
+[The Nature and Development of Mathematics: Cross Disciplinary Perspectives on Cognition, Learning and Culture](https://www.amazon.de/Nature-Development-Mathematics-Disciplinary-Perspectives-ebook/dp/B08R2B3HXF/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1QJISE2QAQ3U7&dib=eyJ2IjoiMSJ9.BDwBZ3T929n0Nx9tdbiAwolcgGo7ifFmV1ZeG8u-SPWMdDktTJi9aIzB_-yjdP5CllxSQ6_wOvut90MjlsowvggiaGXd7qBKQRRzApMazYPp2Tfb_Xs7wgeqy6HVfDwcQWIU-pFYx7-9nttiq57wTx1WLPoBnulA9i-tpYb_UwExzELzYCNIKHTtnl1Fi2HOuTJBW2BjtmgvOi1H3ygFOlkvLc-edC_-UlYL1pB8ckg.PxsXe09ldoJF2ARmlJSUSvkj0bhETnrPw3G3wQprOOA&dib_tag=se&keywords=The+Nature+and+Development+of+Mathematics&qid=1782977836&sprefix=the+nature+and+development+of+mathematics%2Caps%2C183&sr=8-1)
+
+[Wahrheit ist die Erfindung eines Lügners: Gespräche für Skeptiker (Systemische Horizonte)](https://www.amazon.de/Wahrheit-ist-Erfindung-eines-L%C3%BCgners/dp/3896706462)
+
+https://de.wikipedia.org/wiki/Konstruktivismus_(Philosophie)
+
+https://www.harald-klein.koeln/die-wahrheit-ist-die-erfindung-eines-luegners/
+
+https://www.simon-weber.de/blog/die-grenzen-der-entscheidbarkeit/
