@@ -9,7 +9,7 @@
 | 07      | **Pyramiden bauen** mit Erich von Däniken und den Pyramiden von Meroe |                          |                  |
 | 08      | **Die atmende Wand und Brot aus Luft** Das Haber-Bosch-Verfahren und Spanisch-Südamerikanischer Krieg um Guano |                          |                  |
 | 09      | **Armee der Finsternis** und der Schrotkugelturm             |                          |                  |
-| 10      | **In der Kartonagenfabrik** und das Simpsons Video dazu      |                          |                  |
+| 10      | **In der Kartonagenfabrik** und das Simpsonsvideo dazu       |                          |                  |
 | 11      | **Ein Pfund Insekten, bitte!** und der Bevölkerungswachstum sowie die klimafreundliche Bereitstellung von Protein. |                          |                  |
 | 12      | **Armee der Kaninchen** Der Zaun um die Hasen einzuhegen und auch Katzen in Australien als Beispiel. Beispiele zu Krankeiten wie Bakterien und Viren im Allgemeinen. |                          |                  |
 | 13      | **Ostfriesland. Unendliche Weiten.** Star Trek und Data. Was ist Commander Data? Auf der Suche nach Emotionen. Warum ist es wichtig Emotionen zu haben um Mensch zu sein? [The psychology of playing safe](https://www.youtube.com/watch?v=RrOGQD4Z9A4) |                          |                  |
@@ -17,7 +17,7 @@
 | 15      | **Was ist eine wissenschaftliche Arbeit?** Was sind Daten am Beispiel von Sprungweiten von Flöhen am Beispiel von Cadiergues et al. (2000) als wissenschaftliche Arbeit. | Cadiergues et al. (2000) |                  |
 | 16      | **Faktorielles Design I** - Deskriptive Statistik mit Mittelwert und Standardabweichung und **Barplot** - Visualisierung des Mittelwerts und der Standardabweichung. Deskriptive Statistik mit Median und Quartile und **Boxplot** - Visualisierung des Medians und Quartile | Gallup et al. (2016)     |                  |
 | 17      | **Grundlagen des statistischen Testens I** mit der Teststatistik für den t-Test | Kojima et al. (2019)     |                  |
-| 18      | **Grundlagen des statistischen Testens II** mit dem p-Wert und dem *Compact letter display* |                          |                  |
+| 18      | **Grundlagen des statistischen Testens II** mit dem p-Wert und dem *Compact letter display* | Ramprasad et al. (2025)  |                  |
 | 19      | **Faktorielle Experimente mit t-Test und ANOVA**             |                          |                  |
 | 20      | **Faktorielle Experimente mit der einfaktoriellen ANOVA**    |                          |                  |
 | 21      | **Kovariates Design** - Visualisierung zweier Kovariaten in einem **Scatterplot**. |                          |                  |
