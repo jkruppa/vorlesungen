@@ -3,7 +3,7 @@
 | 01      | **Fragestunde und Organisation zu der Veranstaltung.** Studiengangskoordinatoren sind mit dabei und ermöglichen Fragen und Antworten zum Studienverlauf. |                          |                  |
 | 02      | **Was ist Wissenschaft?** Einordnung der Mathematik & Statistik als Werkzeuge der Wissenschaften. **Vorstellung des digitalen Werkzeugs R und Excel.** Programmieren und Frauen |                          |                  |
 | 03      | **Herodot der Schimmel von Ivenack** Pferde und Kot in New York als Großstadtlegende (eng. *urban myth*) | Bowman et al. (2012)     | *AnAge Database* |
-| 04      | **Von Töpfen auf Tisch** Fotos von der Landwirtschaftkammer und die Erklärungen warum wir etwas planen müssen. |                          |                  |
+| 04      | **Von Töpfen auf Tisch** Fotos von der Landwirtschaftkammer und die Erklärungen warum wir etwas planen müssen. Dann noch [NPEC](https://www.npec.nl/experiments/) für die Phenotypisierung von Pflanzen. |                          |                  |
 | 05      | **Solar- & Biogasanlagen**                                   |                          |                  |
 | 06      | **’Entschuldigung, ist das Ihre Feder in meinem Auge?** Vorstellung des Papers *Welfare of broilers on farm* und wie dort reguliert wird. Was gibt es eigentlich für Stufen in der Wissenschaft und wer macht hier eigentlich was? Auswirkungen auf den Landwirt durch Regeln und wo die Regeln herkommen. | EFSA AHAW Panel (2023)   |                  |
 | 07      | **Pyramiden bauen** mit Erich von Däniken und den Pyramiden von Meroe |                          |                  |
@@ -23,7 +23,7 @@
 | 21      | **Kovariates Design** - Visualisierung zweier Kovariaten in einem **Scatterplot**. |                          |                  |
 | 22      | *[Puffertermin für Krankheit oder externe Veranstaltungen]*  |                          |                  |
 | 23      | *[Puffertermin für Krankheit oder externe Veranstaltungen]*  |                          |                  |
-| 24      | *[Puffertermin für Krankheit oder externe Veranstaltungen]*  |                          |                  |
+| 24      | **Weihnachtsvorlesung**                                      |                          |                  |
 | 25      | **Probeklausur**                                             |                          |                  |
 | 26      | **Besprechung Probeklausur**                                 |                          |                  |
 | 01      | Wiederholung und Vertiefung: Daten & Wissenschaft / Organisation der Hausarbeit in R. |                          |                  |
@@ -44,8 +44,8 @@
 | 16      | **Korrelation**                                              |                          |                  |
 | 17      | **Grundlagen des Modellierens**                              |                          |                  |
 | 18      | **Statistisches Modellieren**                                |                          |                  |
-| 19      |                                                              |                          |                  |
-| 20      |                                                              |                          |                  |
+| 19      | **Effektschätzer**                                           |                          |                  |
+| 20      | **Klassifikation mit maschinellen Lernverfahren**            |                          |                  |
 | 21      |                                                              |                          |                  |
 | 22      |                                                              |                          |                  |
 | 23      | *[Puffertermin für Krankheit oder externe Veranstaltungen]*  |                          |                  |
