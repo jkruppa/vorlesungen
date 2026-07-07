@@ -2,7 +2,7 @@
 title: "Pfad zur Bachelorarbeit"
 subtitle: "Fachbereich Bio Data Science"
 author: "Prof. Dr. Jochen Kruppa-Scheetz"
-date: "06. March 2026"
+date: "07. July 2026"
 format:
   html:
     embed-resources: true
@@ -17,11 +17,11 @@ Alle relevanten Informationen zur Bachelorarbeit im Fachbereich Bio Data Science
 Allgemeine Informationen zur Abschlussarbeit an der Fakultät AuL findest du in der [Infothek unter Studium](https://intranet.hs-osnabrueck.de/infothek/fakultaet-aul/studium/abschlussarbeiten/). Beachte bitte die dortigen aktuellen Merkblätter und Informationen zum formalen Prozess. Alle formalen Änderungen erfolgen ausschließlich über das Studierendensekretariat der Hochschule Osnabrück.
 
 ::: {.callout-note icon=false}
-## Für deine Bachelorarbeit gelten folgende verbindliche Anforderungen
+## Für deine Bachelorarbeit gelten folgende Anforderungen
 
 - Die Bearbeitungszeit beträgt 12 Wochen.
 - Die Struktur muss der wissenschaftlichen Standardgliederung (Einleitung, Material & Methoden, Ergebnisse, Diskussion) folgen. Beachte hierzu die detaillierten Hinweise im [Leitfaden zum Verfassen wissenschaftlicher Arbeiten](https://intranet.hs-osnabrueck.de/index.php?eID=dumpFile&t=f&f=69598&token=ea18fc8431ccfbc422ae88c5f45a9963186870d8).
-- Der Bachelorarbeit ist eine [visuelle Zusammenfassung (eng. *visual abstract*)](https://www.bmj.com/content/bmj-visual-abstracts) beizufügen. Die visuelle Zusammenfassung ist eine eigenständige und selbsterklärende Abbildung, die eure Bachelorarbeit grafisch zusammenfasst.
+- Der Bachelorarbeit ist *optional* eine [visuelle Zusammenfassung (eng. *visual abstract*)](https://www.bmj.com/content/bmj-visual-abstracts) beizufügen. Die visuelle Zusammenfassung ist eine eigenständige und selbsterklärende Abbildung, die eure Bachelorarbeit grafisch zusammenfasst.
 - Der Umfang der Arbeit ist auf 60 bis maximal 70 Seiten begrenzt. Diese Seitenzahl beinhaltet das Titelblatt, das Inhaltsverzeichnis sowie das vollständige Literaturverzeichnis.
 - Die Anzahl der Referenzen und Literaturquellen muss zwischen 40 und 70 liegen. Reine Internetquellen werden nicht als Literaturquellen anerkannt.
 :::
@@ -110,7 +110,7 @@ Angesichts des fortschreitenden Einsatzes von Künstlicher Intelligenz (KI) in d
 
 > Während der Vorbereitung dieser Arbeit benutzte(n) der/die Autor(en) [NAME TOOL / SERVICE], um [ANLASS]. Nach der Nutzung dieses Tools/Dienstes hat der/die Autor(en) den Inhalt nach Bedarf überprüft und bearbeitet und übernimmt/übernehmen die volle Verantwortung für den Inhalt des veröffentlichten Artikels.
 
-- **Visueller Abstract:** Ab sofort ist jeder Bachelorarbeit ein visueller Abstract (engl. visual abstract) beizufügen. Ein visueller Abstract ist eine eigenständige und selbsterklärende Abbildung, die eure Bachelorarbeit grafisch zusammenfasst. Stellt es euch wie eine Infografik vor, die auf einen Blick die wichtigsten Aspekte eurer Forschungsarbeit – die Fragestellung, die Methoden, die zentralen Ergebnisse und die Schlussfolgerungen – übersichtlich darstellt. Das Ziel ist es, Lesenden einen schnellen Überblick über den Inhalt eurer Arbeit zu ermöglichen und Interesse zu wecken, sich intensiver damit zu beschäftigen. Ein gutes Beispiel für die Gestaltung und den Zweck von visuellen Abstracts findet ihr unter diesem Link: [BMJ Visual Abstracts](https://www.bmj.com/content/bmj-visual-abstracts).
+- **Visueller Abstract:** *Optional* ist jeder Bachelorarbeit ein visueller Abstract (engl. visual abstract) beizufügen. Ein visueller Abstract ist eine eigenständige und selbsterklärende Abbildung, die eure Bachelorarbeit grafisch zusammenfasst. Stellt es euch wie eine Infografik vor, die auf einen Blick die wichtigsten Aspekte eurer Forschungsarbeit – die Fragestellung, die Methoden, die zentralen Ergebnisse und die Schlussfolgerungen – übersichtlich darstellt. Das Ziel ist es, Lesenden einen schnellen Überblick über den Inhalt eurer Arbeit zu ermöglichen und Interesse zu wecken, sich intensiver damit zu beschäftigen. Ein gutes Beispiel für die Gestaltung und den Zweck von visuellen Abstracts findet ihr unter diesem Link: [BMJ Visual Abstracts](https://www.bmj.com/content/bmj-visual-abstracts).
 
 :::
 
