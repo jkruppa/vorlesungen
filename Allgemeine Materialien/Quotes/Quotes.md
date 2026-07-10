@@ -12,6 +12,10 @@
 
 ### Entscheidungen sind immer unendscheidbar, sonst wären sie Mathematik.
 
+### Reines Wissen ohne die Fähigkeit ein Werkzeug zu nutzen ermöglicht keine schöpferische Tätigkeit.
+
+> "The world's like *this* and therefore I feel like *that*. Better, we find ourselves with feelings, and than we find (invent) 'facts' to justify them." - [Seth's blog](https://seths.blog/2026/07/facts-and-feelings/)
+
 > „Die Wahrheit ist die Erfindung eines Lügners.“  - [Heinz von Foerster](https://de.wikipedia.org/wiki/Heinz_von_Foerster)
 
 https://www.simon-weber.de/blog/die-grenzen-der-entscheidbarkeit/
