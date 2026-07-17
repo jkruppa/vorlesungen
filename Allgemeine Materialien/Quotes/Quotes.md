@@ -50,3 +50,5 @@ https://de.wikipedia.org/wiki/Konstruktivismus_(Philosophie)
 https://www.harald-klein.koeln/die-wahrheit-ist-die-erfindung-eines-luegners/
 
 https://www.simon-weber.de/blog/die-grenzen-der-entscheidbarkeit/
+
+> *"When an exercise is hard and frustrating, u just struck gold. And If you feel like all of a sudden you lost all skill and nothing works you are about to improve drastically within the next few days/weeks. Learn to not solely chase dopamin, learn to be excited when you hit another wall because it is the single best indicator for guaranteed improvement."* - https://www.youtube.com/watch?v=uOKpfTeF7CQ
