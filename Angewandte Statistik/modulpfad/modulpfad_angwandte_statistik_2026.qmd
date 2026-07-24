@@ -77,7 +77,7 @@ Nachfolgend finden Sie eine Übersicht der Modulinhalte. Die Weblinks führen Si
 | \[7.\] | 12.11.2026 | Kruppa-Scheetz | Kovariate Experimente mit der linearen Regression |
 | \[8.\] | 19.11.2026 | Kruppa-Scheetz | Besonderheiten des Fragebogens in der Statistik |
 | \[9.\] | 26.11.2026 | Kruppa-Scheetz | Vorhersagen aus prädiktiven Modellen |
-| \[10.\] | 03.12.2026 | Kruppa-Scheetz | Präsentation der Hausarbeit |
+| \[10.\] | 14.01.2027 | Kruppa-Scheetz | Präsentation der Hausarbeit |
 
 : Übersicht der Inhalte des Moduls *"Angewandte Statistik"*. Die Lage der Inhalte kann sich im laufenden Semester verschieben und nach den Bedürfnissen der Teilnehmenden angepasst werden. Bitte beachten Sie die entsprechenden Informationen während der Veranstaltungen. {#tbl-uebersicht}
 
