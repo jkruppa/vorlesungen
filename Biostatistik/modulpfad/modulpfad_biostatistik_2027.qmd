@@ -66,6 +66,10 @@ Nachfolgend finden Sie eine Übersicht der Modulinhalte. Die Weblinks führen Si
 
 : Übersicht der Inhalte des Moduls *"Biostatistik"*. Die Lage der Inhalte kann sich im laufenden Semester verschieben und nach den Bedürfnissen der Teilnehmenden angepasst werden. Bitte beachten Sie die entsprechenden Informationen während der Veranstaltungen. {#tbl-uebersicht}
 
+#### Statistische Beratung
+
+Ein Teil dieser Veranstaltung ist als individuelle statistische Beratung für Ihre F&E-Projekte und Masterarbeiten konzipiert. Für die Vereinbarung eines Einzeltermins senden Sie bitte eine E-Mail an <j.kruppa@hs-osnabrueck.de>. Die Nutzung der Beratung ist freiwillig und auf Wunsch auch anonym möglich.
+
 ### Prüfungsleistung
 
 Die Prüfungsleistung umfasst eine schriftliche Klausur und optional eine Hausarbeit. Für beide werden Punkte vergeben. Zum Bestehen ist das Gesamtergebnis entscheidend, nicht das Ergebnis einzelner Teilleistungen. Die Teilnahme an der schriftlichen Klausur ist verbindlich. Die Abgabe der Hausarbeit ist freiwillig.
