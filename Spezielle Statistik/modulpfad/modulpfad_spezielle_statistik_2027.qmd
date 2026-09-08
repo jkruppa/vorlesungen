@@ -2,7 +2,8 @@
 title: "Modulpfad Spezielle Statistik und Versuchswesen"
 subtitle: "Der folgende Pfad strukturiert das Modul und dient Ihnen als Leitfaden zur besseren Orientierung."
 author: "Jochen Kruppa-Scheetz"
-date: "22. September 2025"
+date: "08. September 2026"
+date-format: long
 format:
   html:
     embed-resources: true
@@ -14,22 +15,22 @@ format:
 
 Alle notwendigen zusätzlichen Informationen zum Modul finden Sie auf ILIAS, einschließlich:
 
--   Mitschriften der Vorlesung und der Übungen
--   R-Skripte und die in der Vorlesung verwendeten Dateien
--   Informationen zu der Prüfungsleistung der Portfolioprüfung
+- Mitschriften der Vorlesung und der Übungen
+- R-Skripte und die in der Vorlesung verwendeten Dateien
+- Informationen zu der Prüfungsleistung der Portfolioprüfung
 
-Beachten Sie bitte auch die zusätzlichen Informationen zu einzelnen Terminen auf ILIAS. 
+Beachten Sie bitte auch die zusätzlichen Informationen zu einzelnen Terminen auf ILIAS.
 
 ### Allgemeiner Ablauf
 
 Das Modul *"Spezielle Statistik und Versuchswesen"* findet wöchentlich in zwei Blöcken zu je 90 Minuten statt:
 
-**Mittwoch, 09:45 – 11:15 Uhr | Präsenztermin**
+**Mittwoch, 09:45 – 11:15 Uhr \| Präsenztermin**
 
 - Dieser Termin findet vor Ort statt, ich bin durchgehend anwesend.
 - Rauminformationen finden Sie auf ILIAS.
 
-**Donnerstag, 09:45 – 11:15 Uhr | Freies Arbeiten**
+**Donnerstag, 09:45 – 11:15 Uhr \| Freies Arbeiten**
 
 - Diese Zeit nutzen Sie eigenverantwortlich für die Bearbeitung der Aufgaben (in der Hochschule oder von zu Hause aus).
 - Für Fragen stehe ich Ihnen um 10:00 Uhr per Zoom zur Verfügung.
@@ -38,7 +39,7 @@ Den Zoom-Link sowie die aktuellen Raumangaben für die Mittwochstermine entnehme
 
 ### Skript als Lernhilfe
 
-Das Openbook *Bio Data Science* dient als Skript der Veranstaltung und ist online unter <https://jkruppa.github.io/> verfügbar. Dort finden Sie ergänzend weiterführende Informationen zu R, Excel und der Datenauswertung. 
+Das Openbook *Bio Data Science* dient als Skript der Veranstaltung und ist online unter <https://jkruppa.github.io/> verfügbar. Dort finden Sie ergänzend weiterführende Informationen zu R, Excel und der Datenauswertung.
 
 ### Videos als Lernhilfe
 
@@ -48,24 +49,24 @@ Ergänzend zum Openbook *Bio Data Science* und den Veranstaltungsmitschriften st
 
 Nachfolgend finden Sie eine Übersicht der Modulinhalte. Die Weblinks führen Sie zu den entsprechenden YouTube-Videos. Eine umfassende Übersicht über die Modulinhalte bietet Ihnen die [YouTube-Playlist Openbook *Bio Data Sciene*](https://www.youtube.com/watch?v=2stKP2iLGYY&list=PLe51bCp9JvEHAD63zTDE_jS3HNYuG6BrB). Diese Videos sind als Ergänzung und zur Wiederholung konzipiert.
 
-|   | Datum | Dozent | Schwerpunkt |
-|---|---------|------------|------------------------------------|
-| \[1.\] | 23.09.2026 | Kruppa-Scheetz | Organisation & Vorstellung |
-| \[2.\] | 30.09.2026 | Kruppa-Scheetz | Was ist Wissenschaft?  Was sind Daten? |
-| \[3.\] | 07.10.2026 | Kruppa-Scheetz | Zerforschen I - Grundlagen in R und `{ggplot}` |
-| \[4.\] | 14.10.2026 | Kruppa-Scheetz | Zerforschen I - Beispielhafte Posterabbildung nachbauen |
-| \[5.\] | 21.10.2026 | Kruppa-Scheetz | Zerforschen II - Was ist eine Abschlussarbeit? |
-| \[6.\] | 04.11.2026 | Kruppa-Scheetz | Zerforschen III - Einen Versuchsplan aus einer Forschungsidee entwickeln |
-| \[7.\] | 11.11.2026 | Kruppa-Scheetz | Zerforschen III - Daten zu einem Versuchsplan erstellen  |
-| \[8.\] | 18.11.2026 | Kruppa-Scheetz |  |
-| \[9.\] | 25.11.2026 | Kruppa-Scheetz |  |
-| \[10.\] | 02.12.2026 | Kruppa-Scheetz |  |
-| \[11.\] | 09.12.2026 | Kruppa-Scheetz |  |
-| \[12.\] | 16.12.2026 | Kruppa-Scheetz | R Quatro und R Shiny App Vorstellung |
-| \[13.\] | 06.01.2027 | Kruppa-Scheetz | Präsentation der Portfolioprüfung |
-| \[14.\] | 13.01.2027 | Kruppa-Scheetz | Präsentation der Portfolioprüfung |
+|   | Datum | Schwerpunkt |
+|------|-----------|---------------------------------------------------------|
+| \[1.\] | 23.09.2026 | Organisation & Vorstellung |
+| \[2.\] | 30.09.2026 | Was ist Wissenschaft? Was sind Daten? |
+| \[3.\] | 07.10.2026 | Zerforschen I - Grundlagen in R und `{ggplot}` |
+| \[4.\] | 14.10.2026 | Zerforschen I - Beispielhafte Posterabbildung nachbauen |
+| \[5.\] | 21.10.2026 | Zerforschen II - Was ist eine Abschlussarbeit? |
+| \[6.\] | 04.11.2026 | Zerforschen III - Einen Versuchsplan aus einer Forschungsidee entwickeln |
+| \[7.\] | 11.11.2026 | Zerforschen III - Daten zu einem Versuchsplan erstellen |
+| \[8.\] | 18.11.2026 | Statistisches Modellieren I |
+| \[9.\] | 25.11.2026 | Statistisches Modellieren II |
+| \[10.\] | 02.12.2026 | Multiple Gruppenvergleiche & ANOVA |
+| \[11.\] | 09.12.2026 | Multiple Gruppenvergleiche & ANOVA |
+| \[12.\] | 16.12.2026 | R Quatro und R Shiny App Vorstellung |
+| \[13.\] | 06.01.2027 | Präsentation der Portfolioprüfung |
+| \[14.\] | 13.01.2027 | Präsentation der Portfolioprüfung |
 
-: Übersicht der Inhalte des Moduls *"Angewandte Statistik"*. Die Lage der Inhalte kann sich im laufenden Semester verschieben und nach den Bedürfnissen der Teilnehmenden angepasst werden. Bitte beachten Sie die entsprechenden Informationen während der Veranstaltungen. {#tbl-uebersicht}
+: Übersicht der Inhalte des Moduls *"Spezielle Statistik und Versuchswesen"*. Die Lage der Inhalte kann sich im laufenden Semester verschieben und nach den Bedürfnissen der Teilnehmenden angepasst werden. Bitte beachten Sie die entsprechenden Informationen während der Veranstaltungen.
 
 ### Programmieren in R
 
@@ -81,4 +82,3 @@ Zum Verständnis der Programmierung in R stehen Ihnen das Openbook *Bio Data Sci
 ### Prüfungsleistung
 
 Die Prüfungsleistung ist eine Portfolioprüfung. Alle weiteren Informationen dazu, einschließlich Abgabefristen und Inhalte, finden Sie im zusätzlichen Dokument auf ILIAS.
-

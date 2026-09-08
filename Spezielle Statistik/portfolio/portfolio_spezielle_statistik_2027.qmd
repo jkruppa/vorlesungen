@@ -2,7 +2,8 @@
 title: "Spezielle Statistik und Versuchswesen"
 subtitle: "Portfolioprüfung"
 author: "Prof. Dr. Jochen Kruppa-Scheetz"
-date: "17. September 2025"
+date: "08. September 2026"
+date-format: long
 format:
   html:
     embed-resources: true
@@ -62,7 +63,7 @@ Für Ihr Poster finden und fotografieren gelten folgende Anforderungen:
 1) Geben Sie den R-Code und die nachgebaute Abbildung in einem R Quarto Dokument ab.
 2) Die Abgabe erfolgt in Form einer PDF-Datei oder HTML-Datei.
 
-***Hinweis:*** Eine grobe Schätzung der Werte ist für diese Aufgabe ausreichend.*
+***Hinweis:*** Eine grobe Schätzung der Werte ist für diese Aufgabe ausreichend.
 :::
 
 Finden Sie auf dem Campus Haste ein wissenschaftliches Poster und fotografieren Sie eine statistische Abbildung darauf.

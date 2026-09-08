@@ -2,7 +2,8 @@
 title: "Modulpfad Angewandte Statistik"
 subtitle: "Der folgende Pfad strukturiert das Modul und dient Ihnen als Leitfaden zur besseren Orientierung."
 author: "Jochen Kruppa-Scheetz"
-date: "13. September 2026"
+date: "08. September 2026"
+date-format: long
 format:
   html:
     embed-resources: true
@@ -20,8 +21,8 @@ Dieses Dokument ist für das **Wintersemester 2026/27** und das darauffolgende *
 
 Alle notwendigen zusätzlichen Informationen zum Modul finden Sie auf ILIAS, einschließlich:
 
--   Mitschriften der Vorlesung und der Übungen
--   R-Skripte und die in der Vorlesung verwendeten Dateien
+- Mitschriften der Vorlesung und der Übungen
+- R-Skripte und die in der Vorlesung verwendeten Dateien
 
 Beachten Sie bitte auch die zusätzlichen Informationen zu einzelnen Terminen auf ILIAS.
 
@@ -29,22 +30,22 @@ Beachten Sie bitte auch die zusätzlichen Informationen zu einzelnen Terminen au
 
 Das Modul *"Angewandte Statistik"* findet wöchentlich in zwei Blöcken zu je 90 Minuten statt:
 
-**Donnerstag, 13:15 – 14:45 Uhr | Präsenztermin**
+**Donnerstag, 13:15 – 14:45 Uhr \| Präsenztermin**
 
--   Dieser Termin findet vor Ort statt, ich bin durchgehend anwesend.
--   Keine Plicht zur Teilnahme an den einzelnen Terminen.
--   Rauminformationen finden Sie auf ILIAS.
+- Dieser Termin findet vor Ort statt, ich bin durchgehend anwesend.
+- Keine Plicht zur Teilnahme an den einzelnen Terminen.
+- Rauminformationen finden Sie auf ILIAS.
 
-**Selbstgewählter Zeitraum | Freies Arbeiten**
+**Selbstgewählter Zeitraum \| Freies Arbeiten**
 
--   Diese Zeit nutzen Sie eigenverantwortlich für die Bearbeitung der Hausaufgabe (in der Hochschule oder von zu Hause aus).
--   Für Fragen stehe ich Ihnen um per Zoom an ausgewählten Terminen zur Verfügung.
+- Diese Zeit nutzen Sie eigenverantwortlich für die Bearbeitung der Hausaufgabe (in der Hochschule oder von zu Hause aus).
+- Für Fragen stehe ich Ihnen um per Zoom an ausgewählten Terminen zur Verfügung.
 
 Den Zoom-Link für die Beratungen zur Hausarbeit sowie die aktuellen Raumangaben für die Mittwochstermine entnehmen Sie bitte direkt ILIAS.
 
 ### Skript als Lernhilfe
 
-Das Openbook *Bio Data Science* dient als Skript der Veranstaltung und ist online unter <https://jkruppa.github.io/> verfügbar. Dort finden Sie ergänzend weiterführende Informationen zu R, Excel und der Datenauswertung. 
+Das Openbook *Bio Data Science* dient als Skript der Veranstaltung und ist online unter <https://jkruppa.github.io/> verfügbar. Dort finden Sie ergänzend weiterführende Informationen zu R, Excel und der Datenauswertung.
 
 ### Videos als Lernhilfe
 
@@ -57,29 +58,29 @@ Zum Verständnis der Programmierung in R stehen Ihnen das Openbook *Bio Data Sci
 ::: {.callout-note icon="false"}
 ## Aktive Teilnahme
 
--   Programmieren in R ist integraler Bestandteil der Veranstaltung.
--   Die optionale Hausarbeit erfordert die selbstständige Anwendung von R.
--   Theoretische R-Kenntnisse sind klausurrelevant.
+- Programmieren in R ist integraler Bestandteil der Veranstaltung.
+- Die optionale Hausarbeit erfordert die selbstständige Anwendung von R.
+- Theoretische R-Kenntnisse sind klausurrelevant.
 :::
 
 ### Inhalt der Vorlesung
 
 Nachfolgend finden Sie eine Übersicht der Modulinhalte. Die Weblinks führen Sie zu den entsprechenden YouTube-Videos. Eine umfassende Übersicht über die Modulinhalte bietet Ihnen die [YouTube-Playlist Openbook *Bio Data Sciene*](https://www.youtube.com/watch?v=2stKP2iLGYY&list=PLe51bCp9JvEHAD63zTDE_jS3HNYuG6BrB). Diese Videos sind als Ergänzung und zur Wiederholung konzipiert.
 
-|   | Datum | Dozent | Schwerpunkt |
-|---|---------|------------|------------------------------------|
-| \[1.\] | 24.09.2026 | Kruppa-Scheetz | Organisation / Vorstellung / Gummibärchen |
-| \[2.\] | 01.10.2026 | Kruppa-Scheetz | Was ist Wissenschaft? / Was sind Daten? |
-| \[3.\] | 08.10.2026 | Kruppa-Scheetz | Einführung Programmieren in R |
-| \[4.\] | 15.10.2026 | Kruppa-Scheetz | Grundlagen des statistischen Testens |
-| \[5.\] | 22.10.2026 | Kruppa-Scheetz | Besprechung Ihrer Datensätze für die Hausarbeit. Welche Fragen und Probleme treten auf? Wo brauchen Sie Hilfe? |
-| \[6.\] | 05.11.2026 | Kruppa-Scheetz | Faktorielle Experimente mit t-Test und ANOVA |
-| \[7.\] | 12.11.2026 | Kruppa-Scheetz | Kovariate Experimente mit der linearen Regression |
-| \[8.\] | 19.11.2026 | Kruppa-Scheetz | Besonderheiten des Fragebogens in der Statistik |
-| \[9.\] | 26.11.2026 | Kruppa-Scheetz | Vorhersagen aus prädiktiven Modellen |
-| \[10.\] | 14.01.2027 | Kruppa-Scheetz | Präsentation der Hausarbeit |
+|   | Datum | Schwerpunkt |
+|-----|------------|--------------------------------------------------------|
+| \[1.\] | 24.09.2026 | Organisation / Vorstellung / Gummibärchen |
+| \[2.\] | 01.10.2026 | Was ist Wissenschaft? / Was sind Daten? |
+| \[3.\] | 08.10.2026 | Einführung Programmieren in R |
+| \[4.\] | 15.10.2026 | Grundlagen des statistischen Testens |
+| \[5.\] | 22.10.2026 | Besprechung Ihrer Datensätze für die Hausarbeit. Welche Fragen und Probleme treten auf? Wo brauchen Sie Hilfe? |
+| \[6.\] | 05.11.2026 | Faktorielle Experimente mit t-Test und ANOVA |
+| \[7.\] | 12.11.2026 | Kovariate Experimente mit der linearen Regression |
+| \[8.\] | 19.11.2026 | Besonderheiten des Fragebogens in der Statistik |
+| \[9.\] | 26.11.2026 | Vorhersagen aus prädiktiven Modellen |
+| \[10.\] | 14.01.2027 | Präsentation der Hausarbeit |
 
-: Übersicht der Inhalte des Moduls *"Angewandte Statistik"*. Die Lage der Inhalte kann sich im laufenden Semester verschieben und nach den Bedürfnissen der Teilnehmenden angepasst werden. Bitte beachten Sie die entsprechenden Informationen während der Veranstaltungen. {#tbl-uebersicht}
+: Übersicht der Inhalte des Moduls *"Angewandte Statistik"*. Die Lage der Inhalte kann sich im laufenden Semester verschieben und nach den Bedürfnissen der Teilnehmenden angepasst werden. Bitte beachten Sie die entsprechenden Informationen während der Veranstaltungen.
 
 ### Prüfungsleistung
 
@@ -163,24 +164,22 @@ Achten Sie beim Erstellen Ihres Fragebogens darauf, dass die folgenden Vorgaben 
 *( ) Ja*
 
 *( ) Nein*
-
 :::
 
 Ihre Hausarbeit wird nach folgenden Kriterien bewertet:
 
--   **Einleitung (2 Punkte):** Entwicklung einer wissenschaftlichen Fragestellung auf Basis der ausgewählten Daten.
--   **Materialien und Methoden (4 Punkte):**
-    -   Beschreibung des Datensatzes anhand der gegebenen Informationen.
-    -   Beschreibung der angewandten statistischen Methoden zur Datenauswertung.
--   **Ergebnisse (4 Punkte):**
-    -   Visualisierung der Daten im Kontext der Fragestellung. 
-    -   Bericht der Ergebnisse und Erkenntnisse aus der statistischen Analyse.
--   **Diskussion (2 Punkte):** Bewertung der Ergebnisse im Kontext der Fragestellung.
--   **Präsentation (6 Punkte):** Darstellung der Ergebnisse in einem kurzem Vortrag.
+- **Einleitung (2 Punkte):** Entwicklung einer wissenschaftlichen Fragestellung auf Basis der ausgewählten Daten.
+- **Materialien und Methoden (4 Punkte):**
+  - Beschreibung des Datensatzes anhand der gegebenen Informationen.
+  - Beschreibung der angewandten statistischen Methoden zur Datenauswertung.
+- **Ergebnisse (4 Punkte):**
+  - Visualisierung der Daten im Kontext der Fragestellung.
+  - Bericht der Ergebnisse und Erkenntnisse aus der statistischen Analyse.
+- **Diskussion (2 Punkte):** Bewertung der Ergebnisse im Kontext der Fragestellung.
+- **Präsentation (6 Punkte):** Darstellung der Ergebnisse in einem kurzem Vortrag.
 
 ##### Benotung
 
 Das Modul gilt als bestanden, wenn eine den formalen Anforderungen entsprechende Hausarbeit erfolgreich erbracht wurde. Weitere Prüfungsleistungen sind nicht erforderlich.
 
 Ihre Leistung in der Hausarbeit und der Präsentation wird mit bis zu 18 Punkten bewertet. Diese Punkte bestimmen dann Ihre endgültige Modulnote.
-
