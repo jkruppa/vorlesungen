@@ -2,7 +2,8 @@
 title: "Modulpfad Statistik"
 subtitle: "Der folgende Pfad strukturiert das Modul und dient Ihnen als Leitfaden zur besseren Orientierung."
 author: "Jochen Kruppa-Scheetz"
-date: "13. September 2026"
+date: "10. September 2026"
+date-format: long
 format:
   html:
     embed-resources: true
@@ -34,7 +35,7 @@ Das Modul *"Statistik"* findet wöchentlich in zwei Blöcken zu je 90 Minuten st
 
 - **11:30 – 13:00 Uhr:** Vor-Ort-Termin (Anwesenheit freiwillig).
 - **13:15 – 14:45 Uhr:** Vor-Ort-Termin (Anwesenheit freiwillig).
-  - **Ab 14:00 Uhr:** Zeit für freies Arbeiten an der Hausarbeit.
+  - **Ab 14:00 Uhr:** Ortsungebundene Zeit für freies Arbeiten an der Hausarbeit. 
 
 *Hinweis: Ich bin während beider Zeiträume durchgehend vor Ort für dich ansprechbar.*
 
@@ -137,7 +138,7 @@ Für die Abgabe gehen Sie bitte wie folgt vor:
 
 1)  Laden Sie Ihre PDF-Datei in den ILIAS-Abgabeordner hoch.
 2)  Benennen Sie die Datei mit Ihrem Namen und Ihrer Matrikelnummer.
-3)  Die Abgabe muss bis zum **21. Dezember 2026** erfolgen.
+3)  Die Abgabe muss bis zum **31. Januar 2027** erfolgen.
 :::
 
 ##### Datenanalyse in R
