@@ -104,9 +104,7 @@ Für die Abgabe gehen Sie bitte wie folgt vor:
 3)  Die Abgabe muss bis zum **31. Januar 2027** erfolgen.
 :::
 
-##### Datenanalyse in R
-
-Die Datenanalyse ist als reine Einzelleistung zu erbringen. Dies umfasst sowohl die eigenständige Erhebung der Daten als auch deren anschließende Analyse für die Hausarbeit. Eine Zusammenarbeit in Gruppen ist ausgeschlossen; die finale Abgabe des Textes muss von jeder Person individuell und selbstständig erfolgen.
+Im Modul *"Angewandte Statistik"* arbeiten Sie individuell oder in maximal Zweigruppen an einer Hausarbeit, bei dem Sie einen Fragebogen entwickeln. Dieser wird unter anderem von den Teilnehmenden des Moduls ausgefüllt. Bitte beachten Sie, dass die Anzahl meistens nicht ausreicht und Sie noch externe Teilnehmende benötigen. Gehen Sie von ca. 50 beantworteten Fragebögen als hinreichend aus. Die daraus gewonnenen Daten verwenden Sie als Grundlage für Ihre Hausarbeit. Ihre wissenschaftliche Fragestellung erarbeiten Sie eigenständig individuell oder in Ihrer Gruppe.
 
 ::: {.callout-note icon="false"}
 ## Formalia
@@ -115,10 +113,10 @@ Für Ihre Hausarbeit gelten folgende Anforderungen:
 
 1)  Die Hausarbeit ist im IMRaD-Schema zu verfassen.
 2)  Der Umfang beträgt maximal 20 Seiten reinen Fließtextes mit Titelblatt und Literaturverzeichnis. Aufzählungen sind nicht zulässig.
-3)  Die Datenanalyse ist mit der Software RStudio und R durchzuführen, *kann nach Absprache aber auch in einer anderen Software erfolgen*.
+3)  Die Datenanalyse ist mit einer Software wie RStudio und R oder Excel durchzuführen, *kann nach Absprache aber auch in einer anderen Software erfolgen*
 :::
 
-Im Modul *"Statistik"* arbeiten Sie individuell oder in maximal Zweigruppen an einer Hausarbeit, bei dem Sie einen Fragebogen entwickeln. Dieser wird unter anderem von den Teilnehmenden des Moduls ausgefüllt. Bitte beachten Sie, dass die Anzahl meistens nicht ausreicht und Sie noch externe Teilnehmende benötigen. Gehen Sie von ca. 50 beantworteten Fragebögen als hinreichend aus. Die daraus gewonnenen Daten verwenden Sie als Grundlage für Ihre Hausarbeit. Ihre wissenschaftliche Fragestellung erarbeiten Sie eigenständig individuell oder in Ihrer Gruppe.
+Die Wahl der Software für die Datenaufbereitung und die Berichtserstellung steht Ihnen frei. Empfohlen wird, sich mit den Grundlagen in R auseinanderzusetzen und Excel ergänzend zu nutzen. Die statistische Auswertung in einem anderen Statistikprogramm ist ebenso zulässig. Auch das Format des Berichts (z. B. MS Word) und die Art der Präsentation können Sie frei wählen.
 
 ::: {.callout-note icon="false"}
 ## Vorgaben für die Fragen

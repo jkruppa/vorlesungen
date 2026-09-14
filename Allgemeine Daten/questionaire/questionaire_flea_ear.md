@@ -19,8 +19,8 @@
 
 ### Frage 4: Hatte Ihr Floh in der letzten Woche (7 Tage) einen fiebrigen Flohschnupfen an mindestens 1 Tag?
 
-	- ja
-	- nein
+- ja
+- nein
 
 ### Frage 5: Wie ist der allgemeine Ernährungszustand Ihres Flohs im Ohr?
 
