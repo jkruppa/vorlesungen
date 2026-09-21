@@ -12,11 +12,15 @@ Eine Sammlung an Ideen und Zitaten für den Unterricht.
 
 ### Daten sind in Zahlen gegossene Beobachtungen.
 
+### Ein Modell ist die Zusammenfassung / Beschreibung von Daten durch Zahlen.
+
+### Modelle fassen Daten durch Zahlen zusammen.
+
 ### In der Wissenschaft basieren Entscheidungen auf Daten.
 
 ### Entscheidungen sind immer unendscheidbar, sonst wären sie Mathematik.
 
-### Reines Wissen ohne die Fähigkeit ein Werkzeug zu nutzen ermöglicht keine schöpferische Tätigkeit.
+### Reines Wissen ohne die Fertigkeit ein Werkzeug zu nutzen ermöglicht keine schöpferische Tätigkeit.
 
 > "The world's like *this* and therefore I feel like *that*. Better, we find ourselves with feelings, and than we find (invent) 'facts' to justify them." - [Seth's blog](https://seths.blog/2026/07/facts-and-feelings/)
 
