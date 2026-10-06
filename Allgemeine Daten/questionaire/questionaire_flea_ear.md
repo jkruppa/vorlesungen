@@ -13,9 +13,9 @@
 - Eher unzufrieden
 - Sehr unzufrieden
 
-### Frage 3: Welchen IQ-Score erreicht Ihr Floh im Ohr in dem standardisierten Wechsler-Test?
+### Frage 3: Wie weit springt Ihr Floh aus Ihrem Ohr?
 
-- _________ Punkte
+- _________ cm
 
 ### Frage 4: Hatte Ihr Floh in der letzten Woche (7 Tage) einen fiebrigen Flohschnupfen an mindestens 1 Tag?
 
