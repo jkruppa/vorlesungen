@@ -2,7 +2,7 @@
 title: "Modulpfad Mathematik & Statistik"
 subtitle: "Der folgende Pfad strukturiert das Modul und dient Ihnen als Leitfaden zur besseren Orientierung."
 author: "Jochen Kruppa-Scheetz"
-date: "09. September 2026"
+date: "09. September 2027"
 date-format: long
 format:
   html:
@@ -16,7 +16,7 @@ format:
 ::: {.callout-note icon="false"}
 ## Gültigkeit 
 
-Dieses Dokument ist für das **Wintersemester 2026/27** und das darauffolgende **Sommersemester 2027** gültig.
+Dieses Dokument ist für das **Wintersemester 2027/28** und das darauffolgende **Sommersemester 2028** gültig.
 :::
 
 Alle notwendigen zusätzlichen Informationen zum Modul finden Sie auf ILIAS, einschließlich:
@@ -119,14 +119,14 @@ Die Klausurinhalte werden jedes Wintersemester aktualisiert. Aus diesem Grund be
 1) Herodot – der Schimmel aus Ivenack
 2) Von Töpfen auf Tische
 3) Solar- & Biogasanlagen
-4) ’Entschuldigung, ist das Ihre Feder in meinem Auge?’
-5) Pyramiden bauen
-6) Die atmende Wand und Brot aus Luft
-7) Armee der Finsternis
-8) In der Kartonagenfabrik
-9) Ein Pfund Insekten, bitte!
-10) Armee der Kaninchen
-11) Ostfriesland. Unendliche Weiten. 
+4) Pyramiden bauen
+5) Armee der Finsternis
+6) In der Kartonagenfabrik
+7) Ein Pfund Insekten, bitte!
+8) Armee der Kaninchen
+9) Ostfriesland. Unendliche Weiten. 
+10) Die atmende Wand und Brot aus Luft
+11) ’Entschuldigung, ist das Ihre Feder in meinem Auge?’
 
 ##### Mögliche Aufgaben aus dem Statistikteil
 

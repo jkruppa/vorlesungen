@@ -3,6 +3,7 @@ title: "Modulpfad Biostatistik"
 subtitle: "Der folgende Pfad strukturiert das Modul und dient Ihnen als Leitfaden zur besseren Orientierung."
 author: "Jochen Kruppa-Scheetz"
 date: "16. February 2027"
+date-format: long
 format:
   html:
     embed-resources: true
@@ -10,6 +11,11 @@ format:
     theme: journal
   pdf:
     colorlinks: true
+    geometry:
+      - top=30mm
+      - bottom=30mm
+      - left=25mm
+      - right=25mm
 ---
 
 ::: {.callout-note icon="false"}
@@ -20,11 +26,46 @@ Dieses Dokument ist für das **Sommersemester 2027** und das darauffolgende **Wi
 
 Alle notwendigen zusätzlichen Informationen zum Modul finden Sie auf ILIAS, einschließlich:
 
--   Mitschriften der Vorlesung und der Übungen
--   R-Skripte und die in der Vorlesung verwendeten Dateien
--   Die gesammelten Klausurfragen für Bio Data Science
+- Mitschriften der Vorlesung und der Übungen
+- R-Skripte und die in der Vorlesung verwendeten Dateien
+- Die gesammelten Klausurfragen für Bio Data Science
 
 Beachten Sie bitte auch die zusätzlichen Informationen zu einzelnen Terminen auf ILIAS.
+
+### Allgemeiner Ablauf
+
+::: {.callout-note icon="false"}
+## Flexellence
+
+Diese Vorlesung wird nach den Grundsätzen der [Flexellence-Initiative](https://www.hs-osnabrueck.de/texas/teilprojekte/flexcellence) der Hochschule Osnabrück gestaltet!
+
+- **Zukunftsorientiert & flexibel:** Freiräume für dein Studium – inhaltlich, zeitlich und räumlich.
+- **Individuell:** Ausgerichtet auf unterschiedliche Lerntypen und individuelle Bedürfnisse.
+
+**Das bedeutet für dich:** Du entscheidest eigenverantwortlich, was, wie, wann und wo du lernst. Wir schaffen den Rahmen – du steuerst deinen Lernerfolg.
+:::
+
+Da Ihr statistischer Hintergrund in diesem Modul sehr unterschiedlich ist, finden die ersten inhaltlichen Termine als YouTube-Streams statt. So können sowohl Einsteiger als auch Fortgeschrittene die Themen flexibel und im eigenen Tempo erarbeiten. Die genauen Termine finden Sie in der Tabelle weiter unten.
+
+::: {.callout-note icon="false"}
+## Zeitlicher Ablauf
+
+Das Modul *"Biostatistik"* findet wöchentlich in zwei Vorlesungsblöcken statt:
+
+### Mittwoch, 10:00 – 12:00 Uhr \| YouTube Livestream sowie später Hybrid (Präsenztermin mit YouTube Livestream)
+
+- Dieser Termin findet vor Ort statt, ich bin durchgehend anwesend.
+- Keine Plicht zur Teilnahme an den einzelnen Terminen.
+- Rauminformationen finden Sie auf ILIAS.
+
+### Selbstgewählter Zeitraum \| Freies Arbeiten
+
+- Diese Zeit nutzen Sie eigenverantwortlich für die Bearbeitung der Hausaufgabe (in der Hochschule oder von zu Hause aus).
+- Für Fragen stehe ich Ihnen um per Zoom an ausgewählten Terminen zur Verfügung.
+- Semesterübergreifende Beratung zu statistischen Fragestellungen und Datenaufbereitung Ihrer Abschlussarbeit.
+:::
+
+Den YouTube Livestream-Link, den Zoom-Link für die Beratungen zur Hausarbeit sowie die aktuellen Raumangaben für die Mittwochstermine entnehmen Sie bitte direkt ILIAS.
 
 ### Skript als Lernhilfe
 
@@ -41,34 +82,34 @@ Zum Verständnis der Programmierung in R stehen Ihnen das Openbook *Bio Data Sci
 ::: {.callout-note icon="false"}
 ## Aktive Teilnahme
 
--   Programmieren in R ist integraler Bestandteil der Veranstaltung.
--   Die optionale Hausarbeit erfordert die selbstständige Anwendung von R.
--   Theoretische R-Kenntnisse sind klausurrelevant.
+- Programmieren in R ist integraler Bestandteil der Veranstaltung.
+- Die optionale Hausarbeit erfordert die selbstständige Anwendung von R.
+- Theoretische R-Kenntnisse sind klausurrelevant.
 :::
 
 ### Inhalt der Vorlesung
 
-Nachfolgend finden Sie eine Übersicht der Modulinhalte. Die Weblinks führen Sie zu den entsprechenden YouTube-Videos. Alle Inhalte sind verbindlich für die Klausur, auch wenn einzelne Vorlesungen krankheitsbedingt ausfallen sollten. Eine umfassende Übersicht über die Modulinhalte bietet Ihnen die [YouTube-Playlist Openbook *Bio Data Sciene*](https://www.youtube.com/watch?v=2stKP2iLGYY&list=PLe51bCp9JvEHAD63zTDE_jS3HNYuG6BrB). Diese Videos sind als Ergänzung und zur Wiederholung konzipiert.
+Nachfolgend finden Sie eine Übersicht der Modulinhalte. Alle Inhalte sind verbindlich für die Klausur, auch wenn einzelne Vorlesungen krankheitsbedingt ausfallen sollten. Eine umfassende Übersicht über die Modulinhalte bietet Ihnen die [YouTube-Playlist Openbook *Bio Data Sciene*](https://www.youtube.com/watch?v=2stKP2iLGYY&list=PLe51bCp9JvEHAD63zTDE_jS3HNYuG6BrB). Diese Videos sind als Ergänzung und zur Wiederholung konzipiert.
 
-|   | Datum | Dozent | Schwerpunkt |
-|--------|------------|----------------|------------------------------------|
-| \[1.\] | xx.xx.2027 | Kruppa-Scheetz | Organisation / Vorstellung / Gummibärchen |
-| \[2.\] | xx.xx.2027 | Kruppa-Scheetz | Was ist Wissenschaft? / Was sind Daten? |
-| \[3.\] | xx.xx.2027 | Kruppa-Scheetz | Einführung Programmieren in R |
-| \[4.\] | xx.xx.2027 | Kruppa-Scheetz | Grundlagen des statistischen Testens |
-| \[5.\] | xx.xx.2027 | Kruppa-Scheetz | Besprechung Ihrer Datensätze für die Hausarbeit. Welche Fragen und Probleme treten auf? Wo brauchen Sie Hilfe? |
-| \[6.\] | xx.xx.2027 | Kruppa-Scheetz | Faktorielle Experimente mit t-Test und ANOVA |
-| \[7.\] | xx.xx.2027 | Kruppa-Scheetz | Kovariate Experimente mit der linearen Regression |
-| \[8.\] | xx.xx.2027 | Kruppa-Scheetz | Gemischte Modelle für Messwiederholungen |
-| \[9.\] | xx.xx.2027 | Kruppa-Scheetz | Vorhersagen aus prädiktiven Modellen |
-| \[10.\] | xx.xx.2027 | Kruppa-Scheetz | Präsentation der Hausarbeit |
-| \[11. - 13.\] |  | Waßmuth / Sitzenstock | Nutztier |
+| Datum | Ort | Dozent | Schwerpunkt |
+|:---------:|:-------:|:---------:|-----------------------------------------|
+| 10.03.2027 | Präsenz | Kruppa-Scheetz | Organisation / Vorstellung / Gummibärchen |
+| 17.03.2027 | YouTube | Kruppa-Scheetz | Was ist Wissenschaft? / Was sind Daten? |
+| 31.03.2027 | YouTube | Kruppa-Scheetz | Einführung Programmieren in R |
+| 07.04.2027 | YouTube | Kruppa-Scheetz | Grundlagen des statistischen Testens |
+| 14.04.2027 | YouTube | Kruppa-Scheetz | Besprechung Ihrer Datensätze für die Hausarbeit. Welche Fragen und Probleme treten auf? Wo brauchen Sie Hilfe? |
+| 21.04.2027 | YouTube | Kruppa-Scheetz | Faktorielle Experimente mit t-Test und ANOVA |
+| 28.04.2027 | Hybrid | Kruppa-Scheetz | Kovariate Experimente mit der linearen Regression |
+| 05.05.2027 | Hybrid | Kruppa-Scheetz | Gemischte Modelle für Messwiederholungen |
+| 12.05.2027 | Hybrid | Kruppa-Scheetz | Vorhersagen aus prädiktiven Modellen |
+| 19.05.2027 | Präsenz | Kruppa-Scheetz | Präsentation der Hausarbeit |
+|  | Präsenz | Waßmuth / Sitzenstock | Nutztier |
 
-: Übersicht der Inhalte des Moduls *"Biostatistik"*. Die Lage der Inhalte kann sich im laufenden Semester verschieben und nach den Bedürfnissen der Teilnehmenden angepasst werden. Bitte beachten Sie die entsprechenden Informationen während der Veranstaltungen. {#tbl-uebersicht}
+: Übersicht der Inhalte des Moduls *"Biostatistik"*. Die Inhalte können nach den Bedürfnissen der Teilnehmenden angepasst werden. Bitte beachten Sie die entsprechenden Informationen während der Veranstaltungen.
 
 #### Statistische Beratung
 
-Ein Teil dieser Veranstaltung ist als individuelle statistische Beratung für Ihre F&E-Projekte und Masterarbeiten konzipiert. Für die Vereinbarung eines Einzeltermins senden Sie bitte eine E-Mail an <j.kruppa@hs-osnabrueck.de>. Die Nutzung der Beratung ist freiwillig und auf Wunsch auch anonym möglich.
+Ein Teil dieser Veranstaltung ist als individuelle statistische Beratung für Ihre F&E-Projekte und Masterarbeiten konzipiert. Für die Vereinbarung eines Einzeltermins senden Sie bitte eine E-Mail an [j.kruppa\@hs-osnabrueck.de](mailto:j.kruppa@hs-osnabrueck.de){.email}. Die Nutzung der Beratung ist freiwillig und auf Wunsch auch anonym möglich.
 
 ### Prüfungsleistung
 
@@ -83,13 +124,13 @@ Auf ILIAS finden Sie eine PDF-Datei mit allen potenziellen Klausurfragen des Mod
 
 **Die schriftliche Klausur gliedert sich in:**
 
--   *Multiple-Choice-Teil:* 10 Aufgaben (5 Antwortmöglichkeiten pro Frage, davon 1 richtig). Falsche Antworten führen zu keinem Punktabzug.
--   *Text- und Rechenteil:* 5 Aufgaben.
+- *Multiple-Choice-Teil:* 10 Aufgaben (5 Antwortmöglichkeiten pro Frage, davon 1 richtig). Falsche Antworten führen zu keinem Punktabzug.
+- *Text- und Rechenteil:* 5 Aufgaben.
 
 **Erlaubte Hilfsmittel:**
 
--   Taschenrechner (nicht kommunikationsfähig, kein Handy!).
--   Eine beidseitig handschriftlich beschriebene DIN A4-Formelsammlung (keine Ausdrucke).
+- Taschenrechner (nicht kommunikationsfähig, kein Handy!).
+- Eine beidseitig handschriftlich beschriebene DIN A4-Formelsammlung (keine Ausdrucke).
 
 **Bearbeitungszeit:** 120 Minuten (2 Stunden).
 :::
@@ -108,7 +149,7 @@ Die Klausurinhalte werden jedes Sommersemester aktualisiert. Aus diesem Grund be
 6)  Grundgesamtheit und experimentelle Stichprobe
 7)  Das Nullritual - Die statistische Testtheorie
 8)  Visualisierung der Teststatistik und dem p-Wert
-9) Visualisierung des 95% Konfidenzintervalls
+9)  Visualisierung des 95% Konfidenzintervalls
 10) Zusammenhang zwischen dem Effekt, der Streuung sowie der Fallzahl
 11) Interpretation des t-Tests in R: Teststatistik und p-Wert
 12) Interpretation des t-Tests in R: das 95% Konfidenzintervall
@@ -155,15 +196,15 @@ Im Modul *"Biostatistik"* entwickeln Sie in Zweiergruppen eine individuelle wiss
 
 Ihre Hausarbeit wird nach folgenden Kriterien bewertet:
 
--   **Einleitung (1 Punkt):** Entwicklung einer wissenschaftlichen Fragestellung auf Basis der ausgewählten Daten.
--   **Materialien und Methoden (2 Punkte):**
-    -   Beschreibung des Datensatzes anhand der gegebenen Informationen.
-    -   Beschreibung der angewandten statistischen Methoden zur Datenauswertung.
--   **Ergebnisse (2 Punkte):**
-    -   Visualisierung der Daten im Kontext der Fragestellung. 
-    -   Bericht der Ergebnisse und Erkenntnisse aus der statistischen Analyse.
--   **Diskussion (1 Punkt):** Bewertung der Ergebnisse im Kontext der Fragestellung.
--   **Präsentation (6 Punkte):** Darstellung der Ergebnisse in einem kurzem Vortrag.
+- **Einleitung (1 Punkt):** Entwicklung einer wissenschaftlichen Fragestellung auf Basis der ausgewählten Daten.
+- **Materialien und Methoden (2 Punkte):**
+  - Beschreibung des Datensatzes anhand der gegebenen Informationen.
+  - Beschreibung der angewandten statistischen Methoden zur Datenauswertung.
+- **Ergebnisse (2 Punkte):**
+  - Visualisierung der Daten im Kontext der Fragestellung.
+  - Bericht der Ergebnisse und Erkenntnisse aus der statistischen Analyse.
+- **Diskussion (1 Punkt):** Bewertung der Ergebnisse im Kontext der Fragestellung.
+- **Präsentation (6 Punkte):** Darstellung der Ergebnisse in einem kurzem Vortrag.
 
 ##### Benotung
 
